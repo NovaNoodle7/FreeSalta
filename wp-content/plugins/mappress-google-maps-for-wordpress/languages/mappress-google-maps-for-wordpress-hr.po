@@ -1,0 +1,1179 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-21 20:40-0800\n"
+"PO-Revision-Date: 2012-12-23 22:55+0100\n"
+"Last-Translator: Vinko Prelac <vinko.prelac@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress\\wp-content\\plugins\\mappress-google-maps-for-wordpress\n"
+
+#: ../mappress.php:118
+msgid "Version"
+msgstr "Verzija"
+
+#: ../mappress.php:126
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+#: ../mappress.php:127
+msgid "Support"
+msgstr "Podrška"
+
+#: ../mappress.php:128
+msgid "Contact"
+msgstr "Kontakt"
+
+#: ../mappress.php:131
+msgid "Upgrade to MapPress Pro"
+msgstr "Nadogradnja na MapPress Pro"
+
+#: ../mappress.php:322
+msgid "MapPress database tables are missing.  Please deactivate the plugin and activate it again to fix this."
+msgstr "Nedostaju tablice u bazi podataka. Molimo deaktivirajte dodatak i zatim ga opet aktivirajte kako biste ovo popravili."
+
+#: ../mappress.php:327
+msgid "WARNING: MapPress now requires WordPress 3.2 or higher.  Please upgrade before using MapPress."
+msgstr "UPOZORENJE: MapPress zahtjeva WordPress 3.2 ili noviji. Molimo izvršite nadogradnju prije korištenja MapPress dodatka."
+
+#: ../mappress.php:332
+msgid "WARNING: MapPress is not compfatible with the WP-Geo plugin.  Please deactivate or uninstall WP-Geo before using MapPress."
+msgstr "UPOZORENJE: MapPress nije kompatibilan sa WP-Geo dodatkom. Molimo deaktivirajte ili deinstalirajte WP-Geo prije korištenja MapPress dodatka."
+
+#: ../mappress.php:524
+#: ../templates/map_directions.php:6
+msgid "Bicycling"
+msgstr "Biciklom"
+
+#: ../mappress.php:525
+msgid "Bike"
+msgstr "Bicikl"
+
+#: ../mappress.php:526
+msgid "One of the addresses could not be found."
+msgstr "Jedna od adresa nije pronađena."
+
+#: ../mappress.php:527
+msgid "Google cannot return directions between those addresses.  There is no route between them or the routing information is not available."
+msgstr "Google nije mogao kreirati upute između navedenih adresa. Ne postoji ruta između lokacija ili podaci o ruti nisu dostupni."
+
+#: ../mappress.php:528
+msgid "Unknown error, unable to return directions.  Status code = "
+msgstr "Nepoznata greška, nije moguće prikazati upute. Status kod = "
+
+#: ../mappress.php:529
+#: ../mappress_poi.php:282
+#: ../mappress_settings.php:129
+#: ../pro/mappress_widget.php:108
+msgid "Directions"
+msgstr "Upute"
+
+#: ../mappress.php:530
+msgid "Error reading KML file"
+msgstr "Greška pri učitavanju KML datoteke"
+
+#: ../mappress.php:531
+msgid "Loading..."
+msgstr "Učitavam..."
+
+#: ../mappress.php:532
+msgid "No matching address"
+msgstr "Nema podudarajuće adrese"
+
+#: ../mappress.php:533
+msgid "Unable to get your location"
+msgstr "Ne mogu pronaći vašu lokaciju"
+
+#: ../mappress.php:534
+#: ../mappress_settings.php:319
+msgid "Traffic"
+msgstr "Promet"
+
+#: ../mappress.php:535
+msgid "Transit"
+msgstr "Tranzit"
+
+#: ../mappress.php:536
+#: ../mappress_poi.php:331
+#: ../mappress_settings.php:314
+#: ../mappress_settings.php:453
+#: ../pro/mappress_widget.php:124
+msgid "Zoom"
+msgstr "Zum"
+
+#: ../mappress.php:541
+msgid "Add"
+msgstr "Dodaj"
+
+#: ../mappress.php:542
+msgid "Click & drag to move"
+msgstr "Kliknite i povucite za premještanje"
+
+#: ../mappress.php:543
+msgid "Click to change"
+msgstr "Kliknite za promjenu"
+
+#: ../mappress.php:544
+#: ../mappress_map.php:428
+msgid "Delete"
+msgstr "Obriši"
+
+#: ../mappress.php:545
+msgid "Delete this POI?"
+msgstr "Obrisati ovaj marker?"
+
+#: ../mappress.php:546
+msgid "Delete this map?"
+msgstr "Obrisati ovu mapu?"
+
+#: ../mappress.php:547
+msgid "Please save the map first"
+msgstr "Molimo prvo spremite mapu"
+
+#: ../mappress.php:548
+msgid "Shape"
+msgstr "Oblik"
+
+#: ../mappress.php:549
+msgid "Untitled"
+msgstr "Neimenovano"
+
+#: ../mappress_map.php:107
+msgid "Map not found"
+msgstr "Mapa nije pronađena"
+
+#: ../mappress_map.php:196
+#: ../mappress_map.php:202
+msgid "Internal error, your data has not been saved!"
+msgstr "Interna greška, uneseni podaci nisu spremljeni!"
+
+#: ../mappress_map.php:427
+msgid "Edit"
+msgstr "Uredi"
+
+#: ../mappress_map.php:467
+msgid "Show map"
+msgstr "Prikaži mapu"
+
+#: ../mappress_map.php:479
+#: ../mappress_settings.php:445
+#: ../forms/map_editor.php:5
+msgid "Center map"
+msgstr "Centriraj mapu"
+
+#: ../mappress_map.php:488
+#: ../mappress_settings.php:446
+msgid "Reset map"
+msgstr "Resetiraj mapu"
+
+#: ../mappress_map.php:497
+#: ../mappress_settings.php:444
+msgid "Bigger map"
+msgstr "Veća mapa"
+
+#: ../mappress_map.php:498
+msgid "Smaller map"
+msgstr "Manja mapa"
+
+#: ../mappress_poi.php:247
+#: ../mappress_settings.php:454
+msgid "Directions to"
+msgstr "Upute do"
+
+#: ../mappress_poi.php:249
+#: ../mappress_settings.php:455
+msgid "Directions from"
+msgstr "Upute od"
+
+#: ../mappress_settings.php:126
+msgid "Basic Settings"
+msgstr "Osnovne postavke"
+
+#: ../mappress_settings.php:127
+msgid "Post types"
+msgstr "Tipovi postova"
+
+#: ../mappress_settings.php:128
+msgid "Automatic map display"
+msgstr "Automatski prikaz mape"
+
+#: ../mappress_settings.php:131
+msgid "Map Controls"
+msgstr "Kontrole mape"
+
+#: ../mappress_settings.php:132
+msgid "Draggable"
+msgstr "Pomično"
+
+#: ../mappress_settings.php:133
+msgid "Keyboard shortcuts"
+msgstr "Tipkovnički prečaci"
+
+#: ../mappress_settings.php:134
+msgid "Scroll wheel zoom"
+msgstr "Zumiranje kotačićem miša"
+
+#: ../mappress_settings.php:135
+msgid "Map Types"
+msgstr "Tipovi mapa"
+
+#: ../mappress_settings.php:136
+msgid "Map controls"
+msgstr "Kontrole mape"
+
+#: ../mappress_settings.php:138
+msgid "Map Settings"
+msgstr "Postavke"
+
+#: ../mappress_settings.php:139
+msgid "Map links"
+msgstr "LInkovi mapa"
+
+#: ../mappress_settings.php:140
+msgid "Map alignment"
+msgstr "Poravnanje mape"
+
+#: ../mappress_settings.php:141
+msgid "Map border"
+msgstr "Obrub mape"
+
+#: ../mappress_settings.php:142
+msgid "Map border color"
+msgstr "Boja obruba mape"
+
+#: ../mappress_settings.php:143
+msgid "Open first POI"
+msgstr "Otvoriti prvi marker"
+
+#: ../mappress_settings.php:145
+msgid "POI Settings"
+msgstr "Postavke markera"
+
+#: ../mappress_settings.php:146
+msgid "POI links"
+msgstr "Linkovi markera"
+
+#: ../mappress_settings.php:147
+msgid "Tooltips"
+msgstr "Tooltip"
+
+#: ../mappress_settings.php:148
+msgid "Default zoom"
+msgstr "Uobičajeni zum"
+
+#: ../mappress_settings.php:151
+msgid "Mashups"
+msgstr "Mashupovi"
+
+#: ../mappress_settings.php:152
+msgid "Icons"
+msgstr "Ikonice"
+
+#: ../mappress_settings.php:153
+msgid "Styled Maps"
+msgstr "Oblikove mape"
+
+#: ../mappress_settings.php:154
+msgid "Geocoding"
+msgstr "Geokodiranje"
+
+#: ../mappress_settings.php:157
+msgid "Localization"
+msgstr "Lokalizacija"
+
+#: ../mappress_settings.php:158
+msgid "Language"
+msgstr "Jezik"
+
+#: ../mappress_settings.php:159
+msgid "Country"
+msgstr "Zemlja"
+
+#: ../mappress_settings.php:160
+msgid "Directions server"
+msgstr "Poslužitelj za upute"
+
+#: ../mappress_settings.php:161
+msgid "Directions units"
+msgstr "Mjerna jedinica uputa"
+
+#: ../mappress_settings.php:163
+msgid "Miscellaneous"
+msgstr "Razno"
+
+#: ../mappress_settings.php:164
+msgid "POI editor"
+msgstr "Uređivač markera"
+
+#: ../mappress_settings.php:165
+msgid "Adaptive display"
+msgstr "Prilagodljivi prikaz"
+
+#: ../mappress_settings.php:166
+msgid "Turn off CSS"
+msgstr "Isključi CSS"
+
+#: ../mappress_settings.php:219
+msgid "Use the settings below to automatically create maps from custom fields."
+msgstr "Koristiti donje postavke pri automatskom kreiranju mapa iz prilagođenih polja."
+
+#: ../mappress_settings.php:225
+msgid "Posts"
+msgstr "Postovi"
+
+#: ../mappress_settings.php:226
+msgid "Pages"
+msgstr "Stranice"
+
+#: ../mappress_settings.php:238
+msgid "country code"
+msgstr "kod zemlje"
+
+#: ../mappress_settings.php:240
+#, php-format
+msgid "Enter a %s to use when searching (leave blank for USA)"
+msgstr "Unesite %s koji treba koristiti kod pretraživanja (ostavite prazno za USA poslužitelj)"
+
+#: ../mappress_settings.php:247
+msgid "Enter a google server URL for directions/printing"
+msgstr "Unesite URL Google poslužitelja za upute/ispis"
+
+#: ../mappress_settings.php:252
+msgid "(Default)"
+msgstr "(Uobičajeno)"
+
+#: ../mappress_settings.php:252
+msgid "Metric (kilometers)"
+msgstr "Metričko (kilometri)"
+
+#: ../mappress_settings.php:252
+msgid "Imperial (miles)"
+msgstr "Imeprijalno (milje)"
+
+#: ../mappress_settings.php:257
+msgid "Enable map dragging with the mouse"
+msgstr "Omogući pomicanje mape mišem"
+
+#: ../mappress_settings.php:261
+msgid "Enable zoom with the mouse scroll wheel"
+msgstr "Omogući zumiranje kotačićem miša"
+
+#: ../mappress_settings.php:265
+msgid "Enable keyboard panning and zooming"
+msgstr "Omogući pomicanje i zumiranje tipkovnicom"
+
+#: ../mappress_settings.php:271
+msgid "language"
+msgstr "jezik"
+
+#: ../mappress_settings.php:273
+#, php-format
+msgid "Use a specific %s for map controls and geocoding"
+msgstr "Koristiti specifični %s za kontrolu mape i geokodiranje"
+
+#: ../mappress_settings.php:281
+#: ../mappress_settings.php:287
+#: ../mappress_settings.php:382
+msgid "Default"
+msgstr "Uobičajeno"
+
+#: ../mappress_settings.php:282
+msgid "Horizontal"
+msgstr "Horizontalno"
+
+#: ../mappress_settings.php:283
+msgid "Dropdown"
+msgstr "Padajući popis"
+
+#: ../mappress_settings.php:288
+msgid "Small"
+msgstr "Malo"
+
+#: ../mappress_settings.php:289
+msgid "Large"
+msgstr "Veliko"
+
+#: ../mappress_settings.php:290
+msgid "Android"
+msgstr "Android"
+
+#: ../mappress_settings.php:301
+msgid "Open initially"
+msgstr "Odmah otovoreno"
+
+#: ../mappress_settings.php:303
+#: ../mappress_settings.php:305
+#: ../mappress_settings.php:307
+msgid "Checked initially"
+msgstr "Odmah označeno"
+
+#: ../mappress_settings.php:309
+msgid "Control"
+msgstr "Kontrola"
+
+#: ../mappress_settings.php:309
+msgid "Enable"
+msgstr "Omogući"
+
+#: ../mappress_settings.php:309
+#: ../mappress_settings.php:407
+msgid "Style"
+msgstr "Stil"
+
+#: ../mappress_settings.php:312
+msgid "Map types"
+msgstr "Tipovi mapa"
+
+#: ../mappress_settings.php:313
+msgid "Pan"
+msgstr "Pomicanje"
+
+#: ../mappress_settings.php:315
+msgid "Street view"
+msgstr "Street View"
+
+#: ../mappress_settings.php:316
+msgid "Scale"
+msgstr "Skaliranje"
+
+#: ../mappress_settings.php:317
+msgid "Overview map"
+msgstr "Mapa pregleda (overview)"
+
+#: ../mappress_settings.php:318
+msgid "Public transit"
+msgstr "Javni prijevoz"
+
+#: ../mappress_settings.php:320
+msgid "Bike routes"
+msgstr "Biciklističke rute"
+
+#: ../mappress_settings.php:327
+msgid "Road map"
+msgstr "Cestovna mapa"
+
+#: ../mappress_settings.php:328
+#: ../pro/mappress_widget.php:142
+msgid "Satellite"
+msgstr "Satelit"
+
+#: ../mappress_settings.php:329
+#: ../pro/mappress_widget.php:143
+msgid "Terrain"
+msgstr "Teren"
+
+#: ../mappress_settings.php:330
+#: ../pro/mappress_widget.php:141
+msgid "Hybrid"
+msgstr "Hibrid"
+
+#: ../mappress_settings.php:343
+msgid "Inline (in your blog)"
+msgstr "U sadržaju posta"
+
+#: ../mappress_settings.php:344
+#: ../pro/mappress_pro_settings.php:165
+#: ../pro/mappress_widget.php:110
+msgid "Google"
+msgstr "Google"
+
+#: ../mappress_settings.php:345
+#: ../pro/mappress_widget.php:111
+msgid "None"
+msgstr "Ništa"
+
+#: ../mappress_settings.php:352
+msgid "Automatically open the first POI when a map is displayed"
+msgstr "Automatski otvoriti prvi marker kada je mapa prikazana"
+
+#: ../mappress_settings.php:357
+#: ../mappress_settings.php:366
+msgid "Show control"
+msgstr "Prikaži kontrole"
+
+#: ../mappress_settings.php:361
+#: ../mappress_settings.php:370
+msgid "Enabled by default"
+msgstr "Uobičajena postavka: omogućeno"
+
+#: ../mappress_settings.php:375
+msgid "Show POI titles as a \"tooltip\" on mouse-over"
+msgstr "Prikazati naslove markera kao \"tooltip\" na mouse-over"
+
+#: ../mappress_settings.php:383
+#: ../pro/mappress_widget.php:116
+msgid "Center"
+msgstr "Centriraj"
+
+#: ../mappress_settings.php:384
+msgid "Left"
+msgstr "Lijevo"
+
+#: ../mappress_settings.php:385
+msgid "Right"
+msgstr "Desno"
+
+#: ../mappress_settings.php:397
+msgid "solid"
+msgstr "solid"
+
+#: ../mappress_settings.php:398
+msgid "dashed"
+msgstr "dashed"
+
+#: ../mappress_settings.php:399
+msgid "dotted"
+msgstr "dotted"
+
+#: ../mappress_settings.php:400
+msgid "double"
+msgstr "double"
+
+#: ../mappress_settings.php:401
+msgid "groove"
+msgstr "groove"
+
+#: ../mappress_settings.php:402
+msgid "inset"
+msgstr "inset"
+
+#: ../mappress_settings.php:403
+msgid "outset"
+msgstr "outset"
+
+#: ../mappress_settings.php:415
+msgid "Width"
+msgstr "Širina"
+
+#: ../mappress_settings.php:421
+msgid "Corner radius"
+msgstr "Radius obruba"
+
+#: ../mappress_settings.php:429
+msgid "Color"
+msgstr "Boja"
+
+#: ../mappress_settings.php:439
+msgid "Display shadow"
+msgstr "Prikaži sjenu"
+
+#: ../mappress_settings.php:463
+msgid "Default zoom for POIs entered by lat/lng"
+msgstr "Uobičajeni zum za markere unesene po lat/lng"
+
+#: ../mappress_settings.php:469
+msgid "Top of post"
+msgstr "Vrh posta"
+
+#: ../mappress_settings.php:470
+msgid "Bottom of post"
+msgstr "Dno posta"
+
+#: ../mappress_settings.php:471
+msgid "No automatic display"
+msgstr "Bez automatskog prikaza"
+
+#: ../mappress_settings.php:478
+msgid "Use tinyMCE"
+msgstr "Koristi tinyMCE"
+
+#: ../mappress_settings.php:483
+msgid "Recenter maps when window is resized"
+msgstr "Centriraj ponovno mapu nakon promjene veličine prozora"
+
+#: ../mappress_settings.php:487
+#, php-format
+msgid "Don't load the %s stylesheet"
+msgstr "Ne učitavaj %s stylesheet"
+
+#: ../mappress_settings.php:502
+#: ../mappress_settings.php:511
+msgid "No new items"
+msgstr "Nema novih stavki"
+
+#: ../mappress_settings.php:520
+msgid "Read More"
+msgstr "Opširnije"
+
+#: ../mappress_settings.php:521
+msgid "Subscribe with RSS"
+msgstr "Pretplata pomoću RSS"
+
+#: ../mappress_settings.php:530
+msgid "Rate it 5 Stars"
+msgstr "Ocijeni sa 5 zvjezdica"
+
+#: ../mappress_settings.php:532
+#, php-format
+msgid "%s on WordPress.org"
+msgstr "%s na WordPress.org"
+
+#: ../mappress_settings.php:533
+msgid "Thanks for your support!"
+msgstr "Hvala na podršci!"
+
+#: ../mappress_settings.php:560
+msgid "MapPress"
+msgstr "MapPress"
+
+#: ../mappress_settings.php:561
+msgid "Easy Google Maps"
+msgstr "Jednostavne Google mape"
+
+#: ../mappress_settings.php:610
+msgid "Like this plugin?"
+msgstr "Sviđa vam se ovaj dodatak?"
+
+#: ../mappress_settings.php:612
+msgid "MapPress News"
+msgstr "MapPress novosti"
+
+#: ../mappress_settings.php:613
+msgid "Sample Map"
+msgstr "Primjer mape"
+
+#: ../mappress_settings.php:632
+msgid "Save Changes"
+msgstr "Spremi promjene"
+
+#: ../mappress_settings.php:633
+msgid "Reset Defaults"
+msgstr "Resetiranje uobičajenih postavki"
+
+#: ../mappress_updater.php:19
+msgid "Settings"
+msgstr "Postavke"
+
+#: ../mappress_updater.php:45
+msgid "download it now"
+msgstr "preuzmite sada"
+
+#: ../mappress_updater.php:50
+#, php-format
+msgid "A PRO Version update is available for manual installation: %s"
+msgstr "Postoji nadogradnja PRO inačice za ručnu nadogradnju: %s"
+
+#: ../forms/map_editor.php:4
+#: ../templates/map_directions.php:11
+msgid "My location"
+msgstr "Moja okacija"
+
+#: ../forms/map_editor.php:14
+msgid "Click map for lat/lng: "
+msgstr "Kliknite mapu za lat/lng:"
+
+#: ../forms/map_editor_infobox.php:22
+msgid "Line: "
+msgstr "Linija:"
+
+#: ../forms/map_editor_infobox.php:24
+msgid "Weight"
+msgstr "Težina"
+
+#: ../forms/map_editor_infobox.php:25
+#: ../forms/map_editor_infobox.php:31
+msgid "Opacity"
+msgstr "Prozirnost"
+
+#: ../forms/map_editor_infobox.php:29
+msgid "Fill: "
+msgstr "Ispunjenje:"
+
+#: ../forms/map_editor_infobox.php:41
+msgid "Visual"
+msgstr "Vizualno"
+
+#: ../forms/map_editor_infobox.php:41
+msgid "HTML"
+msgstr "HTML"
+
+#: ../forms/map_editor_infobox.php:47
+#: ../forms/map_media.php:37
+msgid "Save"
+msgstr "Spremi"
+
+#: ../forms/map_editor_infobox.php:48
+#: ../forms/map_media.php:38
+#: ../pro/mappress_icons.php:62
+msgid "Cancel"
+msgstr "Otkaži"
+
+#: ../forms/map_media.php:9
+msgid "Maps for This Post"
+msgstr "Mape u ovom postu"
+
+#: ../forms/map_media.php:10
+msgid "New Map"
+msgstr "Nova mapa"
+
+#: ../forms/map_media.php:18
+msgid "Map ID"
+msgstr "ID mape"
+
+#: ../forms/map_media.php:24
+msgid "Size"
+msgstr "Veličina"
+
+#: ../forms/map_media.php:31
+msgid "Insert into post"
+msgstr "Umetni u sadržaj"
+
+#: ../forms/map_media.php:35
+msgid "Map Title"
+msgstr "Naslov mape"
+
+#: ../pro/mappress_geocoders.php:53
+msgid "No results, check that a geocoder is configured"
+msgstr "Nema rezultata, molimo provjerite je li geokoder konfiguriran"
+
+#: ../pro/mappress_geocoders.php:76
+#, php-format
+msgid "Invalid status: %s, address: %s"
+msgstr "Neispravan status: %s, adresa: %s"
+
+#: ../pro/mappress_geocoders.php:85
+#: ../pro/mappress_geocoders.php:149
+#, php-format
+msgid "No results for address: %s"
+msgstr "Nema rezultata za adresu: %s"
+
+#: ../pro/mappress_geocoders.php:145
+#, php-format
+msgid "Error: %s %s"
+msgstr "Greška: %s %s"
+
+#: ../pro/mappress_icons.php:63
+msgid "Use default icon"
+msgstr "Koristi uobičajenu ikonu"
+
+#: ../pro/mappress_pro.php:93
+msgid "Automatic"
+msgstr "Automatski"
+
+#: ../pro/mappress_pro_settings.php:10
+msgid "POI list"
+msgstr "Lista markera"
+
+#: ../pro/mappress_pro_settings.php:11
+msgid "Use DataTables"
+msgstr "Koristi DataTables"
+
+#: ../pro/mappress_pro_settings.php:13
+msgid "InfoWindow type"
+msgstr "Tip Info prozora"
+
+#: ../pro/mappress_pro_settings.php:14
+msgid "InfoWindow panning"
+msgstr "Pomicanje Info prozora"
+
+#: ../pro/mappress_pro_settings.php:16
+msgid "Default icon"
+msgstr "Uobičajena ikona"
+
+#: ../pro/mappress_pro_settings.php:17
+msgid "Custom icons directory"
+msgstr "Prilagođeni direktorij sa ikonama"
+
+#: ../pro/mappress_pro_settings.php:19
+msgid "Mashup POI title"
+msgstr "Naslov mashup markera"
+
+#: ../pro/mappress_pro_settings.php:20
+msgid "Mashup POI body"
+msgstr "Sadržaj (tijelo) mashup markera"
+
+#: ../pro/mappress_pro_settings.php:21
+msgid "Mashup POI click"
+msgstr "Klik na mashup marker"
+
+#: ../pro/mappress_pro_settings.php:22
+msgid "Link title"
+msgstr "Naslov linka"
+
+#: ../pro/mappress_pro_settings.php:23
+msgid "Mashup Thumbnails"
+msgstr "Umanjene sličice za mashup"
+
+#: ../pro/mappress_pro_settings.php:24
+msgid "Thumbnail Size"
+msgstr "Veličina umanjenih sličica"
+
+#: ../pro/mappress_pro_settings.php:26
+msgid "Styled maps"
+msgstr "Oblikovane mape"
+
+#: ../pro/mappress_pro_settings.php:27
+msgid "Default style"
+msgstr "Uobičajeni stil"
+
+#: ../pro/mappress_pro_settings.php:29
+msgid "Geocoder(s)"
+msgstr "Geokoder(i)"
+
+#: ../pro/mappress_pro_settings.php:30
+msgid "Geocoding fields"
+msgstr "Polja za geokodiranje"
+
+#: ../pro/mappress_pro_settings.php:32
+msgid "API key (optional)"
+msgstr "API ključ (opcionalno)"
+
+#: ../pro/mappress_pro_settings.php:33
+msgid "Map sizes"
+msgstr "Veličine mapa"
+
+#: ../pro/mappress_pro_settings.php:34
+msgid "Force resize"
+msgstr "Prisili promjenu veličine"
+
+#: ../pro/mappress_pro_settings.php:63
+msgid "Show a list of POIs under each map"
+msgstr "Prikazati listu markera ispod svake mape"
+
+#: ../pro/mappress_pro_settings.php:68
+#, php-format
+msgid "Show the POI list as a sortable %s"
+msgstr "Prikazati markere kao listu \"sortable\" %s"
+
+#: ../pro/mappress_pro_settings.php:72
+msgid "POI title"
+msgstr "Naslov markera"
+
+#: ../pro/mappress_pro_settings.php:72
+msgid "Post title"
+msgstr "Naslov posta"
+
+#: ../pro/mappress_pro_settings.php:77
+msgid "POI body"
+msgstr "Sadržaj (tijelo) markera"
+
+#: ../pro/mappress_pro_settings.php:77
+msgid "Address"
+msgstr "Adresa"
+
+#: ../pro/mappress_pro_settings.php:77
+msgid "Post excerpt"
+msgstr "Sašetak posta"
+
+#: ../pro/mappress_pro_settings.php:82
+msgid "Link POI titles to the underlying post"
+msgstr "Povezati naslove markera sa postom"
+
+#: ../pro/mappress_pro_settings.php:86
+msgid "Open the POI"
+msgstr "Otvori marker"
+
+#: ../pro/mappress_pro_settings.php:86
+msgid "Go directly to the post"
+msgstr "Idi na članak"
+
+#: ../pro/mappress_pro_settings.php:92
+msgid "Google InfoWindow"
+msgstr "Google Info prozor"
+
+#: ../pro/mappress_pro_settings.php:93
+msgid "InfoBox (can be styled and extend outside the map)"
+msgstr "InfoBox (može se stilizirati i proširiti izvan mape)"
+
+#: ../pro/mappress_pro_settings.php:99
+msgid "Disable map panning when infoWindow / infoBox is opened"
+msgstr "Onemogući pomicanje mape kada je info prozor / InfoBox otvoren"
+
+#: ../pro/mappress_pro_settings.php:103
+msgid "Show featured image thumbnails in mashup POIs"
+msgstr "Prikaži izdvojenu sliku u mashup markerima"
+
+#: ../pro/mappress_pro_settings.php:111
+msgid "Use existing size: "
+msgstr "Koristi postojeću veličinu:"
+
+#: ../pro/mappress_pro_settings.php:114
+msgid "or resize to (px): "
+msgstr "ili promjeni veličinu u (px)"
+
+#: ../pro/mappress_pro_settings.php:129
+msgid "styled maps"
+msgstr "stilizirane mape"
+
+#: ../pro/mappress_pro_settings.php:130
+msgid "styled maps wizard"
+msgstr "pomoćnik za stiliziranje mapa"
+
+#: ../pro/mappress_pro_settings.php:132
+#, php-format
+msgid "Enter JSON for %s from Google's %s"
+msgstr "Unesite JSON za %s iz Google %s"
+
+#: ../pro/mappress_pro_settings.php:141
+msgid "Style name"
+msgstr "Ime stila"
+
+#: ../pro/mappress_pro_settings.php:155
+msgid "No styles have been defined yet"
+msgstr "Još nema definiranih stilova"
+
+#: ../pro/mappress_pro_settings.php:166
+msgid "Nominatim"
+msgstr "Nominatim"
+
+#: ../pro/mappress_pro_settings.php:178
+msgid "Address Line 1"
+msgstr "Adresa (linija 1)"
+
+#: ../pro/mappress_pro_settings.php:179
+msgid "Address Line 2"
+msgstr "Adresa (linija 2)"
+
+#: ../pro/mappress_pro_settings.php:180
+msgid "Address Line 3"
+msgstr "Adresa (linija 3)"
+
+#: ../pro/mappress_pro_settings.php:181
+msgid "Address Line 4"
+msgstr "Adresa (linija 4)"
+
+#: ../pro/mappress_pro_settings.php:182
+msgid "Latitude"
+msgstr "Širina"
+
+#: ../pro/mappress_pro_settings.php:183
+msgid "Longitude"
+msgstr "Dužina"
+
+#: ../pro/mappress_pro_settings.php:184
+msgid "Icon"
+msgstr "Ikona"
+
+#: ../pro/mappress_pro_settings.php:185
+msgid "Title"
+msgstr "Naslov"
+
+#: ../pro/mappress_pro_settings.php:186
+msgid "Body"
+msgstr "Tijelo (sadržaj)"
+
+#: ../pro/mappress_pro_settings.php:187
+msgid "Map Zoom"
+msgstr "Zum"
+
+#: ../pro/mappress_pro_settings.php:190
+#: ../pro/mappress_widget.php:140
+msgid "Map"
+msgstr "Mapa"
+
+#: ../pro/mappress_pro_settings.php:190
+msgid "Custom Field"
+msgstr "Prilagođena polja"
+
+#: ../pro/mappress_pro_settings.php:199
+msgid "Regenerate the map every time its post is published"
+msgstr "Regenerirati mapu svaki put kada je post objavljen"
+
+#: ../pro/mappress_pro_settings.php:204
+msgid "usage tracking"
+msgstr "praćenje korištenja"
+
+#: ../pro/mappress_pro_settings.php:205
+#, php-format
+msgid "API keys is needed only for premium services or %s"
+msgstr "API ključevi su potrebni samo za premium usluge ili %s"
+
+#: ../pro/mappress_pro_settings.php:209
+msgid "Enter default map sizes"
+msgstr "Unesite preddefinirane veličine mapa"
+
+#: ../pro/mappress_pro_settings.php:213
+msgid "Width(px)"
+msgstr "Širina (px)"
+
+#: ../pro/mappress_pro_settings.php:213
+msgid "Height(px)"
+msgstr "Visina (px)"
+
+#: ../pro/mappress_pro_settings.php:228
+msgid "Permanently resize existing maps"
+msgstr "Trajno promijeni veličinu postojećih mapa:"
+
+#: ../pro/mappress_pro_settings.php:230
+#, php-format
+msgid "from %s to %s"
+msgstr "sa %s na %s"
+
+#: ../pro/mappress_pro_settings.php:231
+msgid "Force Resize"
+msgstr "Prisili promjenu veličine"
+
+#: ../pro/mappress_widget.php:78
+msgid "Widget title"
+msgstr "Naslov widgeta"
+
+#: ../pro/mappress_widget.php:83
+msgid "Map size"
+msgstr "Veličina mape"
+
+#: ../pro/mappress_widget.php:89
+msgid "Show"
+msgstr "Prikaži"
+
+#: ../pro/mappress_widget.php:90
+msgid "Current posts"
+msgstr "Trenutni postovi"
+
+#: ../pro/mappress_widget.php:91
+msgid "Hide if empty"
+msgstr "Sakrij ako je prazno"
+
+#: ../pro/mappress_widget.php:93
+msgid "All posts"
+msgstr "Svi postovi"
+
+#: ../pro/mappress_widget.php:94
+msgid "Custom query"
+msgstr "Prilagođeni upit"
+
+#: ../pro/mappress_widget.php:97
+msgid "Learn about queries"
+msgstr "Naučite o upitima"
+
+#: ../pro/mappress_widget.php:102
+msgid "Show POI list"
+msgstr "Prikaži popis markera"
+
+#: ../pro/mappress_widget.php:104
+msgid "Link POIs to posts"
+msgstr "Povezati marker sa postom"
+
+#: ../pro/mappress_widget.php:109
+msgid "Inline"
+msgstr "Inline"
+
+#: ../pro/mappress_widget.php:137
+msgid "Map type"
+msgstr "Tip mape"
+
+#: ../pro/mappress_widget.php:151
+msgid "Other Settings"
+msgstr "Ostale postavke"
+
+#: ../pro/mappress_widget.php:154
+msgid "Example: traffic=\"false\" maplinks=\"\""
+msgstr "Primjer: traffic=\"false\" maplinks=\"\""
+
+#: ../templates/map_directions.php:3
+msgid "By car"
+msgstr "Automobilom"
+
+#: ../templates/map_directions.php:4
+msgid "Public Transit"
+msgstr "Javni prijevoz"
+
+#: ../templates/map_directions.php:5
+msgid "Walking"
+msgstr "Pješice"
+
+#: ../templates/map_directions.php:16
+msgid "Swap start and end"
+msgstr "Zamijenite polazište i odredište"
+
+#: ../templates/map_directions.php:29
+msgid "Get Directions"
+msgstr "Upute"
+
+#: ../templates/map_directions.php:30
+msgid "Print"
+msgstr "Ispis"
+
+#: ../templates/map_directions.php:31
+msgid "Close"
+msgstr "Zatvori"
+
+#: ../templates/map_poi_list.php:5
+msgid "Location"
+msgstr "Lokacija"
+
+#~ msgid "Done"
+#~ msgstr "Izvršeno"
+
+#~ msgid "Map fields"
+#~ msgstr "Polja mapa"
+
+#~ msgid "Marker list"
+#~ msgstr "Lista markera"
+
+#~ msgid "Show traffic button"
+#~ msgstr "Prikazati gumb za prikaz prometa"
+
+#~ msgid "Templates"
+#~ msgstr "Predlošci"
+
+#~ msgid "Marker list template"
+#~ msgstr "Predložak liste markera"
+
+#~ msgid "post types"
+#~ msgstr "tipovi postova"
+
+#~ msgid "post"
+#~ msgstr "post"
+
+#~ msgid "page"
+#~ msgstr "stranica"
+
+#~ msgid "Current Maps"
+#~ msgstr "Trenutne mape"
+
+#~ msgid "There are no maps yet for this post"
+#~ msgstr "Ovaj post još ne sadrži mapu"
+
+#~ msgid "Create a new map"
+#~ msgstr "Kreiranje nove mape"
+
+#~ msgid "View"
+#~ msgstr "Pregled"
+
+#~ msgid "Back"
+#~ msgstr "natrag"
+
+#~ msgid "Delete this map marker?"
+#~ msgstr "Obrisati ovaj marker?"
+
+#~ msgid "Map saved"
+#~ msgstr "Mapa je spremljena"
+
+#~ msgid "Map deleted"
+#~ msgstr "Mapa je obrisana"
+
+#~ msgid "Standard icons"
+#~ msgstr "Standardne ikonice"
+
+#~ msgid "Start"
+#~ msgstr "Polazište"
+
+#~ msgid "End"
+#~ msgstr "Odredište"
+
+#~ msgid "Print Directions"
+#~ msgstr "Ispis uputa"
+
+#~ msgid "Show query"
+#~ msgstr "Prikaži upit"
+
+#~ msgid "Marker title"
+#~ msgstr "Naslov markera"
+
+#~ msgid "Marker body"
+#~ msgstr "Tijelo markera"
+
+#~ msgid "Marker"
+#~ msgstr "Marker"
+
+#~ msgid "Show list of markers"
+#~ msgstr "Pokazati listu markera"
+
+#~ msgid "Open overview map"
+#~ msgstr "Otvori mapu pregleda"

@@ -1,0 +1,14 @@
+/* === Plugins Upgrader === */
+
+.yit-plugin-changelog-wrapper {
+    display: none;
+}
+
+.yit-plugin-changelog-title {
+    text-transform: uppercase;
+}
+
+.yit-plugin-changelog {
+    background: #fcfcfc;
+    height: 97%;
+}

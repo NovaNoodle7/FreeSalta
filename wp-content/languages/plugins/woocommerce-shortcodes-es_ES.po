@@ -1,0 +1,260 @@
+# Translation of Plugins - WooCommerce Shortcodes - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WooCommerce Shortcodes - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-13 22:07:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WooCommerce Shortcodes - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://woothemes.com"
+msgstr "http://woothemes.com"
+
+#. Author of the plugin/theme
+msgid "WooThemes, Claudio Sanches"
+msgstr "WooThemes, Claudio Sanches"
+
+#. Description of the plugin/theme
+msgid "WooCommerce Shortcodes."
+msgstr "WooCommerce Shortcodes."
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.woothemes.com/"
+msgstr "https://www.woothemes.com/"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Shortcodes"
+msgstr "WooCommerce Shortcodes"
+
+#: woocommerce-shortcodes.php:99
+msgid "WooCommerce Shortcodes depends on the last version of %s to work!"
+msgstr "¡WooCommerce Shortcodes depende de la última versión de %s para que funcione!"
+
+#: includes/wc-shortcodes-editor-i18n.php:65
+msgid "You need enter with an attribute and terms slugs!"
+msgstr "¡Tienes que introducirlo con los slug de un atributo y los términos!"
+
+#: includes/wc-shortcodes-editor-i18n.php:64
+msgid "You need enter with a category slug!"
+msgstr "¡Tienes que introducirlo con un slug de categoría!"
+
+#: includes/wc-shortcodes-editor-i18n.php:63
+msgid "You need to use an IDs or SKUs!"
+msgstr "¡Tienes que usar IDs o SKUs!"
+
+#: includes/wc-shortcodes-editor-i18n.php:62
+msgid "You need to use an ID or SKU!"
+msgstr "¡Tienes que usar un ID o SKU!"
+
+#: includes/wc-shortcodes-editor-i18n.php:61
+msgid "Products Per Page"
+msgstr "Productos por página"
+
+#: includes/wc-shortcodes-editor-i18n.php:60
+msgid "Categories Per Page"
+msgstr "Categorías por página"
+
+#: includes/wc-shortcodes-editor-i18n.php:59
+msgid "Terms slug"
+msgstr "Slug de los términos"
+
+#: includes/wc-shortcodes-editor-i18n.php:58
+msgid "Attribute slug"
+msgstr "Slug del atributo"
+
+#: includes/wc-shortcodes-editor-i18n.php:57
+msgid "AND"
+msgstr "Y"
+
+#: includes/wc-shortcodes-editor-i18n.php:56
+msgid "NOT IN"
+msgstr "NO EN"
+
+#: includes/wc-shortcodes-editor-i18n.php:55
+msgid "IN"
+msgstr "EN"
+
+#: includes/wc-shortcodes-editor-i18n.php:54
+msgid "Operator"
+msgstr "Operador"
+
+#: includes/wc-shortcodes-editor-i18n.php:53
+msgid "Title"
+msgstr "Título"
+
+#: includes/wc-shortcodes-editor-i18n.php:52
+msgid "Rating"
+msgstr "Valoración"
+
+#: includes/wc-shortcodes-editor-i18n.php:51
+msgid "Popularity"
+msgstr "Popularidad "
+
+#: includes/wc-shortcodes-editor-i18n.php:50
+msgid "Price"
+msgstr "Precio"
+
+#: includes/wc-shortcodes-editor-i18n.php:49
+msgid "Date"
+msgstr "Fecha"
+
+#: includes/wc-shortcodes-editor-i18n.php:48
+msgid "Random"
+msgstr "Aleatorio"
+
+#: includes/wc-shortcodes-editor-i18n.php:47
+msgid "Default"
+msgstr "Por defecto"
+
+#: includes/wc-shortcodes-editor-i18n.php:46
+msgid "Category Slug"
+msgstr "Slug de la categoría"
+
+#: includes/wc-shortcodes-editor-i18n.php:45
+msgid "Parent ID"
+msgstr "ID superior"
+
+#: includes/wc-shortcodes-editor-i18n.php:44
+msgid "Hide Empty"
+msgstr "Ocultar vacíos"
+
+#: includes/wc-shortcodes-editor-i18n.php:43
+msgid "Columns"
+msgstr "Columnas"
+
+#: includes/wc-shortcodes-editor-i18n.php:42
+msgid "DESC"
+msgstr "DESC"
+
+#: includes/wc-shortcodes-editor-i18n.php:41
+msgid "ASC"
+msgstr "ASC"
+
+#: includes/wc-shortcodes-editor-i18n.php:40
+msgid "Order"
+msgstr "Ordenar"
+
+#: includes/wc-shortcodes-editor-i18n.php:39
+msgid "None"
+msgstr "Ninguno"
+
+#: includes/wc-shortcodes-editor-i18n.php:38
+msgid "Slug"
+msgstr "Slug"
+
+#: includes/wc-shortcodes-editor-i18n.php:37
+msgid "Count"
+msgstr "Contar"
+
+#: includes/wc-shortcodes-editor-i18n.php:36
+msgid "Name"
+msgstr "Nom"
+
+#: includes/wc-shortcodes-editor-i18n.php:35
+msgid "Order By"
+msgstr "Ordenar por"
+
+#: includes/wc-shortcodes-editor-i18n.php:34
+msgid "Number"
+msgstr "Número"
+
+#: includes/wc-shortcodes-editor-i18n.php:33
+msgid "Separate the values with comma"
+msgstr "Separa los valores con comas"
+
+#: includes/wc-shortcodes-editor-i18n.php:32
+msgid "Show Price"
+msgstr "Mostrar precio"
+
+#: includes/wc-shortcodes-editor-i18n.php:31
+msgid "Inline Style"
+msgstr "Estilos integrados"
+
+#: includes/wc-shortcodes-editor-i18n.php:30
+msgid "SKUs"
+msgstr "SKUs"
+
+#: includes/wc-shortcodes-editor-i18n.php:29
+msgid "SKU"
+msgstr "SKU"
+
+#: includes/wc-shortcodes-editor-i18n.php:28
+msgid "IDs"
+msgstr "IDs"
+
+#: includes/wc-shortcodes-editor-i18n.php:27
+msgid "ID"
+msgstr "ID"
+
+#: includes/wc-shortcodes-editor-i18n.php:24
+msgid "Order tracking"
+msgstr "Seguimiento del pedido"
+
+#: includes/wc-shortcodes-editor-i18n.php:23
+msgid "Shop Messages"
+msgstr "Mensajes de la tienda"
+
+#: includes/wc-shortcodes-editor-i18n.php:22
+msgid "Top rated products"
+msgstr "Productos más valorados"
+
+#: includes/wc-shortcodes-editor-i18n.php:21
+msgid "Best selling products"
+msgstr "Productos más vendidos"
+
+#: includes/wc-shortcodes-editor-i18n.php:20
+msgid "Sale products"
+msgstr "Productos rebajados"
+
+#: includes/wc-shortcodes-editor-i18n.php:19
+msgid "Featured products"
+msgstr "Productos destacados"
+
+#: includes/wc-shortcodes-editor-i18n.php:18
+msgid "Recent products"
+msgstr "Productos recientes"
+
+#: includes/wc-shortcodes-editor-i18n.php:17
+msgid "Products by attributes"
+msgstr "Productos por atributos"
+
+#: includes/wc-shortcodes-editor-i18n.php:16
+msgid "Products by category slug"
+msgstr "Productos por slug de categoría"
+
+#: includes/wc-shortcodes-editor-i18n.php:15
+msgid "Product categories"
+msgstr "Categorías de producto"
+
+#: includes/wc-shortcodes-editor-i18n.php:14
+msgid "Products by SKU/ID"
+msgstr "Productos por SKU/ID"
+
+#: includes/wc-shortcodes-editor-i18n.php:13
+msgid "By SKU/ID"
+msgstr "Por SKU/ID"
+
+#: includes/wc-shortcodes-editor-i18n.php:12
+msgid "Add to cart URL"
+msgstr "URL de añadir al carrito"
+
+#: includes/wc-shortcodes-editor-i18n.php:11
+msgid "Price/cart button"
+msgstr "Botón de precio/carrito"
+
+#: includes/wc-shortcodes-editor-i18n.php:10
+msgid "List"
+msgstr "Lista"
+
+#: includes/wc-shortcodes-editor-i18n.php:9
+msgid "Product"
+msgstr "Producto"
+
+#: includes/wc-shortcodes-editor-i18n.php:8 woocommerce-shortcodes.php:99
+msgid "WooCommerce"
+msgstr "WooCommerce"

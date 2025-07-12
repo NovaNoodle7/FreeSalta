@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'maxmegamenu';
+  src: url('../../font/maxmegamenu.eot?82360077');
+  src: url('../../font/maxmegamenu.eot?82360077#iefix') format('embedded-opentype'),
+       url('../../font/maxmegamenu.woff2?82360077') format('woff2'),
+       url('../../font/maxmegamenu.woff?82360077') format('woff'),
+       url('../../font/maxmegamenu.ttf?82360077') format('truetype'),
+       url('../../font/maxmegamenu.svg?82360077#maxmegamenu') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+#adminmenu .toplevel_page_maxmegamenu div.wp-menu-image:before {
+    content: "\e802" !important;
+    font-family: "maxmegamenu" !important;
+    speak: none;
+    font-size: 19px;
+    margin-left: 1px;
+}

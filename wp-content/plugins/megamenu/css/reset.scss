@@ -1,0 +1,59 @@
+@if $resets == 'on' {
+    #{$wrap} #{$menu} ul,
+    #{$wrap} #{$menu} li,
+    #{$wrap} #{$menu} p,
+    #{$wrap} #{$menu} img,
+    #{$wrap} #{$menu} div,
+    #{$wrap} #{$menu} a {
+        color: $panel_font_color;
+        font-family: $panel_font_family;
+        font-size: $panel_font_size;
+        background: none;
+        border: 0;
+        @include border-radius(0, 0, 0, 0);
+        margin: 0;
+        opacity: 1;
+        padding: 0;
+        position: relative;
+        right: auto;
+        top: auto;
+        bottom: auto;
+        left: auto;
+        text-align: left;
+        text-transform: none;
+        vertical-align: baseline;
+        @include box-shadow(none);
+        list-style-type: none;
+        line-height: $line_height;
+        box-sizing: border-box;
+        float: none;
+        overflow: visible;
+        display: block;
+        min-height: 0;
+        -webkit-transition: none;
+        -moz-transition: none;
+        -o-transition: none;
+        transition: none;
+        text-decoration: none;
+        width: auto;
+        clip: auto;
+        height: auto;
+        outline: none;
+        visibility: inherit;
+
+        &:before,
+        &:after {
+            display: none;
+        }
+    }
+
+    #{$wrap} #{$menu} table,
+    #{$wrap} #{$menu} td,
+    #{$wrap} #{$menu} tr,
+    #{$wrap} #{$menu} th {
+        border: 0;
+        margin: 0;
+        padding: 0;
+        background: none;
+    }
+}

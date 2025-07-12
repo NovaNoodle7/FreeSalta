@@ -1,0 +1,317 @@
+/*
+Theme Name: Mobile Shop
+Author: ThemeFarmer
+Author URI: https://www.themefarmer.com
+Description: Mobile Shop is child theme of StoreOne. Mobile Shop is Powerful multipurpose WooCommerce WordPress Theme. Mobile Shop is the perfect free theme for e-commerce shop. Mobile Shop is responsive mobile optimized and using bootstrap framework. to show awesome icons on site it's using FontAwesome icons. Mobile Shop is Search Engine Optimized (SEO) friendly. Theme is developed to be used for any business, corporate, companies, or freelancers to create an awesome online presence. Mobile Shop is highly recommended for business, informative, agencies, travel, design, art, personal, restaurant, construction, health, digital agency, bloggers, corporate business, freelancers, portfolio, product showcase, and any other creative e-commerce websites. Even with all the Powerful features the theme is optimized for fast performance and security.Theme includes customizable homepage, awesome slider, social links, latest products, latest blog section and other Advance section. Theme Provide 3 page Template (Home Page , Full Width, Left Sidebar) to select layout. Mobile Shop is perfect suitable for clothing, electronics, mobile and almost any type of store website. Mobile Shop is good for eCommerce solution and compatible with contact form 7, JetPack, WPML. Documentation available at https://www.themefarmer.com/documentation/documentation-storeone/ and check the Demo at http://demo.themefarmer.com/mobile-shop/
+Template: storeone
+Version: 1.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: mobile-shop
+Tags: e-commerce, portfolio, blog, custom-logo, custom-header, custom-menu, featured-images, full-width-template, right-sidebar, left-sidebar, sticky-post, theme-options, threaded-comments, translation-ready, one-column, two-columns
+*/
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+}
+
+.site-branding {
+	/*text-align: center;*/
+}
+
+.site-branding .site-title {
+	max-width: 100%;
+}
+
+.mbs-accout-links.pull-right {
+	margin-left: 20px;
+	padding-top: 7px;
+}
+
+.mbs-accout-links .account-links {
+	background-color: #FFDA19;
+}
+
+.account-links li {
+	margin: 0;
+	width: 100%;
+}
+
+.header-topbar {
+	background-color: #e4e4e4;
+}
+
+.header-middle {
+	background-color: #ffffff;
+	color: #000
+}
+
+.site-title a {
+	color: #000;
+}
+
+.site-description {
+	color: #949494;
+}
+
+.contact-info {
+	padding-top: 8px;
+}
+
+.contact-info .mail-info,
+.contact-info .call-info {
+	display: inline-block;
+	margin: 0;
+}
+
+.contact-info .call-info {
+	margin-right: 40px;
+}
+
+.contact-info .info-link {
+	color: #000;
+}
+
+.bgs-social li a {
+	color: #000000;
+	padding-top: 2px;
+}
+
+.shop-slider .owl-theme .owl-dots {
+	display: none;
+}
+
+.shop-slider .carousel-caption {
+	width: 100%;
+	bottom: 0 !important;
+	top: auto !important;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+	padding: 10px;
+}
+
+.shop-slider .bgs-slider-heading {
+	margin: 0;
+	padding: 0;
+	margin-bottom: 10px;
+}
+
+
+/* color styles*/
+
+a,
+a:hover,
+a:focus {
+	color: #FFDA19;
+}
+
+button,
+input[type=button],
+input[type=submit] {
+	background-color: #FFDA19;
+}
+
+input[type=reset] {
+	color: #FFDA19;
+	border: 1px solid #FFDA19;
+}
+
+.back-to-top i {
+	background-color: #FFDA19;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+	background-color: #FFDA19;
+}
+
+.menu .dropdown-menu {
+	border-top: 1px solid #FFDA19;
+}
+
+.navbar-default .navbar-toggle {
+	border-color: #FFDA19;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #FFDA19;
+}
+
+@media (min-width: 768px) {
+	#TF-Navbar .dropdown-menu {
+		background-color: #FFDA19;
+	}
+}
+
+.dropdown-menu>li>a:focus,
+.dropdown-menu>li>a:hover {
+	background-color: #8BC34A;
+}
+
+.home-pagi .swiper-pagination-bullet,
+.owl-dot {
+	background: #FFDA19;
+}
+
+.owl-next,
+.owl-prev {
+	background-color: #FFDA19;
+}
+
+.bps-slider .banner-link {
+	background-color: #FFDA19;
+	border: 1px solid #FFDA19;
+	font-size: 14px;
+	padding: 7px 15px;
+}
+
+.bds-date-block.bds-day {
+	background-color: #FFDA19;
+}
+
+.bgs-blog-more {
+	background-color: #FFDA19;
+}
+
+.bgs-post.sticky .bgs-post-content {
+	background-color: #FFDA19;
+}
+
+.btn-theme,
+.btn-theme:hover,
+.btn-theme:focus {
+	background-color: #FFDA19;
+}
+
+.widget ul li a:hover {
+	color: #FFDA19;
+}
+
+.tagcloud a {
+	border: 2px solid #FFDA19;
+}
+
+.calendar_wrap #wp-calendar caption {
+	background-color: #FFDA19;
+}
+
+.calendar_wrap #wp-calendar td,
+.calendar_wrap #wp-calendar th {
+	border: 1px solid #FFDA19;
+}
+
+.sidebar-widget .widget-heading {
+	background-color: #FFDA19;
+	/*border-bottom: 3px solid #8BC34A;
+    border-right: 10px solid #8BC34A;*/
+}
+
+.sidebar-widget ul li::before {
+	color: #FFDA19;
+}
+
+.footer-widget .widget-heading:before,
+.footer-widget .widget-heading:after {
+	border-bottom: 1px solid #FFDA19;
+}
+
+.footer-widget .widget-heading:after {
+	border-bottom: 1px solid #ffe11b;
+}
+
+.bgs-pagination .nav-previous a,
+.bgs-pagination .nav-next a {
+	border: 1px solid #FFDA19;
+	color: #FFDA19;
+}
+
+.bgs-pagination .page-numbers {
+	border: 1px solid #FFDA19;
+	color: #FFDA19;
+}
+
+.bgs-pagination .page-numbers:hover {
+	background-color: #FFDA19;
+	border: 1px solid #FFDA19;
+}
+
+.footer-right .bgs-social li a {
+	color: #FFDA19;
+}
+
+.page-header.error {
+	border-bottom: 1px solid #FFDA19;
+}
+
+.bgs-404-page h2.code-404 {
+	color: #FFDA19;
+}
+
+.woocommerce .add_to_cart_button {
+	background-color: #FFDA19 !important;
+}
+
+.woocommerce ul.products li.product .onsale {
+	color: #FFDA19;
+}
+
+.woocommerce .cart .button,
+.woocommerce a.button.alt {
+	background-color: #FFDA19 !important;
+}
+
+.woocommerce .cart .button:hover {
+	background-color: #FFDA19;
+}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range {
+	background-color: #FFDA19;
+}
+
+.shop-widget.widget_product_categories .product-categories .cat-parent:after {
+	color: #FFDA19;
+}
+
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button {
+	background-color: #FFDA19;
+}
+
+.woocommerce #respond input#submit:hover,
+.woocommerce a.button:hover,
+.woocommerce button.button:hover,
+.woocommerce input.button:hover {
+	background-color: #FFDA19;
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+	background-color: #FFDA19;
+	border: 1px solid #FFDA19;
+}
+
+.woocommerce span.onsale {
+	color: #FFDA19;
+}
+
+.sweep-to-right:before {
+	background: #FFDA19;
+}
+
+.sweep-to-left:before {
+	background: #FFDA19;
+}
+
+.sweep-to-bottom:before {
+	background: #FFDA19;
+}
+
+.cart-btn {
+	border: 1px solid #FFDA19;
+	border-bottom: 2px solid #FFDA19;
+	color: #FFDA19;
+}

@@ -1,0 +1,202 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Featured Video\n"
+"POT-Creation-Date: 2016-10-07 11:14+0200\n"
+"PO-Revision-Date: 2015-12-29 16:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: Yithemes <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;_ngettext_noop:1,2;"
+"_n_nooop:1,2;_c,_nc:4c,1,2;_x:1,2c\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../includes/classes/class.yith-woocommerce-audio-video-content.php:111
+msgid "Settings"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-audio-video-content.php:113
+msgid "Premium live demo"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-audio-video-content.php:113
+msgid "Live demo"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-audio-video-content.php:118
+#: ../includes/classes/class.yith-woocommerce-audio-video-content.php:197
+msgid "Premium Version"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-audio-video-content.php:145
+msgid "Plugin Documentation"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-audio-video-content.php:196
+msgid "Video Settings"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-audio-video-content.php:203
+#: ../includes/classes/class.yith-woocommerce-audio-video-content.php:204
+msgid "Featured Video"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-audio-video-content.php:221
+msgid "Featured Video URL"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-audio-video-content.php:222
+msgid "Video URL"
+msgstr ""
+
+#: ../includes/classes/class.yith-woocommerce-audio-video-content.php:224
+#, php-format
+msgid ""
+"Enter the URL for the video you want to show in place of the featured image "
+"in the product detail page. (the services enabled are: %s)."
+msgstr ""
+
+#: ../init.php:45
+msgid ""
+"YITH WooCommerce Featured Video is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: ../init.php:55
+msgid ""
+"You can't activate the free version of YITH WooCommerce Featured Video while "
+"you are using the premium one."
+msgstr ""
+
+#: ../plugin-options/video-settings-options.php:10
+msgid "General Settings"
+msgstr ""
+
+#: ../plugin-options/video-settings-options.php:16
+msgid "Aspect Ratio"
+msgstr ""
+
+#: ../plugin-options/video-settings-options.php:19
+msgid "Choose the aspect ratio for your video"
+msgstr ""
+
+#: ../templates/admin/premium.php:232
+#, php-format
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Featured  Video"
+"%2$s to benefit from all features!"
+msgstr ""
+
+#: ../templates/admin/premium.php:235 ../templates/admin/premium.php:345
+msgid "UPGRADE"
+msgstr ""
+
+#: ../templates/admin/premium.php:236 ../templates/admin/premium.php:346
+msgid "to the premium version"
+msgstr ""
+
+#: ../templates/admin/premium.php:242
+msgid "Premium Features"
+msgstr ""
+
+#: ../templates/admin/premium.php:245
+msgid "Soundcloud"
+msgstr ""
+
+#: ../templates/admin/premium.php:250
+msgid "Audio files by SoundCloud"
+msgstr ""
+
+#: ../templates/admin/premium.php:253
+#, php-format
+msgid ""
+"One of the new features of the premium version you can benefit from is the "
+"freedom to associate one or more %1$sSoundCloud%2$s audio files to your "
+"products.%3$s Create the playlist of the tracks you want to link to the "
+"product in order to listen to them one after one."
+msgstr ""
+
+#: ../templates/admin/premium.php:263 ../templates/admin/premium.php:270
+msgid "Video uploading"
+msgstr ""
+
+#: ../templates/admin/premium.php:266
+#, php-format
+msgid ""
+"Create your customized video gallery to show with the product to offer your "
+"users more and more information to evaluate the plugin. And there's more: "
+"with the premium version of the plugin, you can also select a video from "
+"your %1$sWordPress gallery%2$s, so that you don't have to use %1$sYouTube"
+"%2$s or %1$sVimeo%2$s platforms."
+msgstr ""
+
+#: ../templates/admin/premium.php:277 ../templates/admin/premium.php:282
+msgid "Management and play options"
+msgstr ""
+
+#: ../templates/admin/premium.php:285
+#, php-format
+msgid ""
+"A tailored settings panel for you and your users to manage videos. %3$s Set "
+"the automatic play of videos to catch your customers' attention, and select "
+"the volume level you want. With a simple click, you can prevent video from "
+"being stopped, hoping that this will keep users watching the content you are "
+"offering. %3$sMoreover, you can choose whether to activate the %1$svideo "
+"control%2$s bar for your users, in order to let them use control buttons to "
+"manage videos."
+msgstr ""
+
+#: ../templates/admin/premium.php:295
+msgid "Modal window "
+msgstr ""
+
+#: ../templates/admin/premium.php:298
+#, php-format
+msgid ""
+"Purchase the premium version of %1$sYITH WooCommerce Featured Audio & Video "
+"Content%2$s if you want to play video and audio files linked to products in "
+"a %1$smodal window%2$s. A wise style choice for the market."
+msgstr ""
+
+#: ../templates/admin/premium.php:309 ../templates/admin/premium.php:314
+msgid "Style of the control bar"
+msgstr ""
+
+#: ../templates/admin/premium.php:317
+#, php-format
+msgid ""
+"Customize the style of the video control bar you can see in the products of "
+"your shop. Go to the settings panel to %1$scustomize all colors of the bar"
+"%2$s with few clicks to make it suitable to your site."
+msgstr ""
+
+#: ../templates/admin/premium.php:327
+msgid "Product variations"
+msgstr ""
+
+#: ../templates/admin/premium.php:330
+#, php-format
+msgid ""
+"The plugin is not just about simple products: %1$sadd video and audio files "
+"in your variations too%2$s, in order to set different contents even for the "
+"variations of the same product."
+msgstr ""
+
+#: ../templates/admin/premium.php:342
+#, php-format
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Featured Audio & "
+"Video Content%2$s to benefit from all features!"
+msgstr ""
+
+#: ../templates/template_video_player.php:51
+msgid "This video has been blocked because its contents are under copyright."
+msgstr ""

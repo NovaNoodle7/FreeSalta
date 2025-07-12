@@ -1,0 +1,189 @@
+@media (max-width:991px) {
+    .gallery .gallery-item{
+        width: 47%;    
+    }
+    
+}
+@media (max-width:768px) {
+    .admin-bar .site-header,
+    .admin-bar .site-header.float-header {
+        top: 46px;
+    }
+    .home-swiper .carousel-caption .bgs-slider-heading {
+        font-size: 30px;
+    }
+    .carousel-caption .bgs-slider-desc {
+        font-size: 14px;
+    }
+    .home-swiper .carousel-caption {
+        min-height: 150px;
+        top: 30%;
+    }
+    .home-swiper .carousel-caption .bgs-slider {
+        width: 100%;
+    }
+    .menu .nav li a {
+        padding: 10px 10px;
+    }
+    .menu .navbar-collapse {
+        float: left;
+        padding: 0;
+    }
+    .home-swiper {
+        height: auto;
+    }
+}
+
+@media (max-width:767px) {
+    .home-swiper {
+        height: auto;
+    }
+    .site-title {
+        font-size: 24px;
+        margin: 5px 0;
+        max-width: 100%;
+        width: auto
+    }
+    .section-heading {
+        font-size: 30px;
+        white-space: normal;
+    }
+    .bt-1,
+    .bt-2 {
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+    header {
+        padding: 0;
+        position: relative;
+        width: 100%;
+        z-index: 2;
+        background-color: #000;
+    }
+    .home-swiper .carousel-caption {
+        top: 30%;
+    }
+    .home-swiper .carousel-caption .bgs-slider-desc {
+        display: none;
+    }
+    .home-swiper .carousel-caption .bgs-slider {
+        text-align: center;
+    }
+    .home-swiper .carousel-caption .bgs-slider-heading {
+        font-size: 20px;
+    }
+    .home-swiper .banner-link {
+        font-size: 14px;
+        padding: 5px 15px;
+        margin: 5px;
+        text-transform: uppercase;
+    }
+    .menu .navbar-collapse {
+        width: 30%;
+        position: absolute;
+        right: 3%;
+        background-color: #000;
+        top: 60%;
+    }
+    .menu .navbar-nav {
+        margin: 0;
+    }
+    .menu li .dropdown-menu {
+        position: relative !important;
+        left: 0 !important;
+        opacity: 1;
+        width: 100%;
+        visibility: visible;
+        -webkit-transition: all 0.6s ease;
+        -moz-transition: all 0.6s ease;
+        -o-transition: all 0.6s ease;
+        -ms-transition: all 0.6s ease;
+        transition: all 0.6s ease;
+    }
+    .menu .navbar-nav li a {
+        color: #fff !important;
+    }
+    .menu .nav li a {
+        padding: 10px 40px;
+    }
+    .menu .nav li a .caret {
+        float: right;
+    }
+    .footer-copy-text p {
+        text-align: center;
+    }
+    .footer-copy-social {
+        text-align: center;
+    }
+    .bgs-menu-container {
+        float: none !important;
+    }
+    .mobi-clk {
+        display: inline-block;
+        float: right;
+        background-color: white;
+        padding: 5px 10px;
+        border: 1px solid #2874f0;
+    }
+    .mobi-clk .caret {
+        border-top-color: #2874f0;
+    }
+    .navbar-default .navbar-nav>li>a {
+        display: inline-block;
+        width: 100%;
+    }
+    .navbar-default .navbar-nav>li {
+        margin-bottom: 10px;
+    }
+    .navbar-nav ul li {
+        margin-left: 20px;
+    }
+    
+    
+    .navbar-default .navbar-nav>.open,
+    .navbar-default .navbar-nav>.open,
+    .navbar-default .navbar-nav>.open{
+        background-color: #e7e7e7;
+    }
+
+    .navbar-nav>li>a {
+        padding: 5px 20px;
+    }
+    .navbar-nav .open .dropdown-menu>li>a {
+        padding-right: 50px;
+    }
+    .navbar-nav .open .dropdown-menu .dropdown-menu {
+        background-color: #dadcdb;
+    }
+
+    .gallery .gallery-item{
+        width: 100%; 
+        margin-right: 0;
+    }
+}
+
+@media (max-width:480px) {
+    .sticky-head {
+        background-color: #000;
+    }
+    .menu .navbar-collapse {
+        width: 100%;
+        position: relative;
+        background-color: #000;
+    }
+    .carousel-caption {
+        min-height: 120px;
+        top: 20%;
+        left: 5%;
+        right: 5%;
+    }
+    .carousel-caption h1 {
+        font-size: 20px;
+    }
+    .carousel-caption h2 {
+        font-size: 16px;
+    }
+    .banner-link {
+        padding: 5px 10px;
+    }
+}

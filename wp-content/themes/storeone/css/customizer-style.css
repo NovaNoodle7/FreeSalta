@@ -1,0 +1,42 @@
+#accordion-section-storeone-upsell {
+    display: block !important;
+}
+.themefarmer-upsale {
+    padding-top: 10px;
+}
+
+.themefarmer-upsale-bt {
+    background-color: #999;
+    display: block;
+    color: #FFF;
+    padding: 5px 10px;
+    border-radius: 2px;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 50px;
+    margin-bottom: 5px;
+
+}
+.themefarmer-upsale-bt:hover,
+.themefarmer-upsale-bt:visited,
+.themefarmer-upsale-bt:active,
+.themefarmer-upsale-bt:focus{
+    color: #FFF;
+    outline: none;
+}
+.themefarmer-upsale-bt:last-child{
+    margin-bottom: 15px;
+}
+#themefarmer-pro-button {
+    background-color: #EE591F;
+    border: 1px solid #D35400;
+}
+#themefarmer-docs-button {
+    background-color: #2ECC71;
+    border: 1px solid #27ae60;
+}
+#themefarmer-details-button {
+    background-color: #3498db;
+    border: 1px solid #2980b9;
+}

@@ -1,0 +1,1087 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AG translate RU\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-12 15:45-0800\n"
+"PO-Revision-Date: 2014-09-03 15:45+0400\n"
+"Last-Translator: AG <helirexi@gmail.com>\n"
+"Language-Team: helirexi <helirexi@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr_e;esc_attr__;"
+"esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.6.7\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru_RU\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../mappress.php:122
+msgid "Version"
+msgstr "Version"
+
+#: ../mappress.php:130
+msgid "Documentation"
+msgstr "Documentation"
+
+#: ../mappress.php:131
+msgid "Support"
+msgstr "Support"
+
+#: ../mappress.php:132
+msgid "Contact"
+msgstr "Contact"
+
+#: ../mappress.php:135
+msgid "Upgrade to MapPress Pro"
+msgstr "обновить до MapPress Pro"
+
+#: ../mappress.php:333
+msgid ""
+"MapPress database tables are missing.  Please deactivate the plugin and "
+"activate it again to fix this."
+msgstr ""
+"Таблицы БД MapPress не найдены. Пожалуйста деактивируйте плагин и "
+"активируйте снова чтобы исправить это."
+
+#: ../mappress.php:338
+msgid ""
+"WARNING: MapPress now requires WordPress 3.2 or higher.  Please upgrade "
+"before using MapPress."
+msgstr ""
+"ВНИМАНИЕ: MapPress требует WordPress 3.2 и выше.  Обновитесь перед "
+"использованием MapPress."
+
+#: ../mappress.php:343
+msgid ""
+"WARNING: MapPress is not compfatible with the WP-Geo plugin.  Please "
+"deactivate or uninstall WP-Geo before using MapPress."
+msgstr ""
+"ВНИМАНИЕ: MapPress не совместим с WP-Geo плагином.  Удалите или "
+"деактивируйте WP-Geo перед использованием MapPress."
+
+#: ../mappress.php:547 ../templates/map_directions.php:6
+msgid "Bicycling"
+msgstr "На велосипеде"
+
+#: ../mappress.php:548
+msgid "Bike"
+msgstr "Велосипед"
+
+#: ../mappress.php:549
+msgid "One of the addresses could not be found."
+msgstr "Один из адресов не может быть найден"
+
+#: ../mappress.php:550
+msgid ""
+"Google cannot return directions between those addresses.  There is no route "
+"between them or the routing information is not available."
+msgstr ""
+"Google не может вернуть маршруты между этими адресами. Нет маршрутов между "
+"ними или информация о маршрутах недоступна."
+
+#: ../mappress.php:551
+msgid "Unknown error, unable to return directions.  Status code = "
+msgstr "Неизвестная ошибка, невозможно получить направления. Код статуса ="
+
+#: ../mappress.php:552 ../mappress_poi.php:251 ../mappress_settings.php:133
+#: ../pro/mappress_widget.php:108
+msgid "Directions"
+msgstr "Направления"
+
+#: ../mappress.php:553
+msgid "Error reading KML file"
+msgstr "Ошибка чтения файла KLM"
+
+#: ../mappress.php:554
+msgid "Loading..."
+msgstr "Загрузка..."
+
+#: ../mappress.php:555
+msgid "No matching address"
+msgstr "Нет подходящего адреса"
+
+#: ../mappress.php:556
+msgid "Unable to get your location"
+msgstr "Невозможно определить ваше местонахождение"
+
+#: ../mappress.php:557 ../mappress_settings.php:322
+msgid "Traffic"
+msgstr "Движение"
+
+#: ../mappress.php:558
+msgid "Transit"
+msgstr "Проездом"
+
+#: ../mappress.php:559 ../mappress_poi.php:300 ../mappress_settings.php:317
+#: ../mappress_settings.php:456 ../pro/mappress_widget.php:124
+msgid "Zoom"
+msgstr "Масштаб"
+
+#: ../mappress.php:564
+msgid "Add"
+msgstr "Добавить"
+
+#: ../mappress.php:565
+msgid "Click & drag to move"
+msgstr "Кликните и удерживайте для перемещения"
+
+#: ../mappress.php:566
+msgid "Click to change"
+msgstr "Изменить"
+
+#: ../mappress.php:567 ../mappress_map.php:444
+msgid "Delete"
+msgstr "Удалить"
+
+#: ../mappress.php:568
+msgid "Delete this POI?"
+msgstr "Удалить эту точку?"
+
+#: ../mappress.php:569
+msgid "Delete this map?"
+msgstr "Удалить эту карту?"
+
+#: ../mappress.php:570
+msgid "Please save the map first"
+msgstr "Сохраните карту вначале"
+
+#: ../mappress.php:571
+msgid "Shape"
+msgstr "Форма"
+
+#: ../mappress.php:572 ../mappress_map.php:55
+msgid "Untitled"
+msgstr "Без заголовка"
+
+#: ../mappress_map.php:122
+msgid "Map not found"
+msgstr "Карта не найдена"
+
+#: ../mappress_map.php:442
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../mappress_map.php:443 ../forms/map_media.php:48
+msgid "Insert into post"
+msgstr "Вставить в публикацию"
+
+#: ../mappress_map.php:483
+msgid "Show map"
+msgstr "Показать карту"
+
+#: ../mappress_map.php:495 ../mappress_settings.php:448
+#: ../forms/map_editor.php:17
+msgid "Center map"
+msgstr "Центрировать карту"
+
+#: ../mappress_map.php:504 ../mappress_settings.php:449
+msgid "Reset map"
+msgstr "Сброс карты"
+
+#: ../mappress_map.php:513 ../mappress_settings.php:447
+msgid "Bigger map"
+msgstr "Увеличить карту"
+
+#: ../mappress_map.php:514
+msgid "Smaller map"
+msgstr "Уменьшить карту"
+
+#: ../mappress_poi.php:216 ../mappress_settings.php:457
+msgid "Directions to"
+msgstr "Конечная точка"
+
+#: ../mappress_poi.php:218 ../mappress_settings.php:458
+msgid "Directions from"
+msgstr "Начальная точка"
+
+#: ../mappress_settings.php:130
+msgid "Basic Settings"
+msgstr "Основные настройки"
+
+#: ../mappress_settings.php:131
+msgid "Post types"
+msgstr "Тип публикации"
+
+#: ../mappress_settings.php:132
+msgid "Automatic map display"
+msgstr "Автоматическое отображение карты"
+
+#: ../mappress_settings.php:135
+msgid "Map Controls"
+msgstr "Управление картой"
+
+#: ../mappress_settings.php:136
+msgid "Draggable"
+msgstr "Перемещаемое"
+
+#: ../mappress_settings.php:137
+msgid "Keyboard shortcuts"
+msgstr "Сочетания клавиш"
+
+#: ../mappress_settings.php:138
+msgid "Scroll wheel zoom"
+msgstr "Масштабировать колесом мыши"
+
+#: ../mappress_settings.php:139
+msgid "Map Types"
+msgstr "Типы карт"
+
+#: ../mappress_settings.php:140
+msgid "Map controls"
+msgstr "Управление картой"
+
+#: ../mappress_settings.php:142
+msgid "Map Settings"
+msgstr "Настройки карты"
+
+#: ../mappress_settings.php:143
+msgid "Map links"
+msgstr "Ссылки карты"
+
+#: ../mappress_settings.php:144
+msgid "Map alignment"
+msgstr "Расположение карты"
+
+#: ../mappress_settings.php:145
+msgid "Map border"
+msgstr "Обрамление карты"
+
+#: ../mappress_settings.php:146
+msgid "Map border color"
+msgstr "Цвет обрамления карты"
+
+#: ../mappress_settings.php:147
+msgid "Open first POI"
+msgstr "Открыть первую точку"
+
+#: ../mappress_settings.php:149
+msgid "POI Settings"
+msgstr "Настройки Точки"
+
+#: ../mappress_settings.php:150
+msgid "POI links"
+msgstr "Ссылки точки"
+
+#: ../mappress_settings.php:151
+msgid "Tooltips"
+msgstr "Всплывающие подсказки"
+
+#: ../mappress_settings.php:152
+msgid "Default zoom"
+msgstr "Масштаб по-умолчанию"
+
+#: ../mappress_settings.php:155
+msgid "Mashups"
+msgstr "Объединить данные источников"
+
+#: ../mappress_settings.php:156
+msgid "Icons"
+msgstr "Значки"
+
+#: ../mappress_settings.php:157
+msgid "Styled Maps"
+msgstr "Стилизация карт"
+
+#: ../mappress_settings.php:158
+msgid "Geocoding"
+msgstr "Гео позиционирование"
+
+#: ../mappress_settings.php:161
+msgid "Localization"
+msgstr "Локализация"
+
+#: ../mappress_settings.php:162
+msgid "Language"
+msgstr "Язык"
+
+#: ../mappress_settings.php:163
+msgid "Country"
+msgstr "Страна"
+
+#: ../mappress_settings.php:164
+msgid "Directions server"
+msgstr "Сервер маршрутов"
+
+#: ../mappress_settings.php:165
+msgid "Directions units"
+msgstr "Единицы измерения"
+
+#: ../mappress_settings.php:167
+msgid "Miscellaneous"
+msgstr "Разное"
+
+#: ../mappress_settings.php:168
+msgid "Map sizes"
+msgstr "Размеры карты"
+
+#: ../mappress_settings.php:169
+msgid "Fix Scrollbars"
+msgstr "Зафиксировать прокрутку"
+
+#: ../mappress_settings.php:170
+msgid "Turn off CSS"
+msgstr "Выключить стили CSS"
+
+#: ../mappress_settings.php:171
+msgid "Adaptive display"
+msgstr "Адаптивное изображение"
+
+#: ../mappress_settings.php:172
+msgid "Load maps last"
+msgstr "Загрузка карт последними"
+
+#: ../mappress_settings.php:222
+msgid "Use the settings below to automatically create maps from custom fields."
+msgstr ""
+"Используйте настройки ниже для автоматического создания карт из "
+"пользовательских полей."
+
+#: ../mappress_settings.php:228
+msgid "Posts"
+msgstr "Публикации"
+
+#: ../mappress_settings.php:229
+msgid "Pages"
+msgstr "Страницы"
+
+#: ../mappress_settings.php:241
+msgid "country code"
+msgstr "код страны"
+
+#: ../mappress_settings.php:243
+#, php-format
+msgid "Enter a %s to use when searching (leave blank for USA)"
+msgstr "Введите %s для поиска (оставьте пустым для США)"
+
+#: ../mappress_settings.php:250
+msgid "Enter a google server URL for directions/printing"
+msgstr "Введите адрес сервера google для маршрутов и печати"
+
+#: ../mappress_settings.php:255
+msgid "(Default)"
+msgstr "(По умолчанию)"
+
+#: ../mappress_settings.php:255
+msgid "Metric (kilometers)"
+msgstr "Метрическая (километры)"
+
+#: ../mappress_settings.php:255
+msgid "Imperial (miles)"
+msgstr "мили"
+
+#: ../mappress_settings.php:260
+msgid "Enable map dragging with the mouse"
+msgstr "Включить перемещения по карте с помощью мыши"
+
+#: ../mappress_settings.php:264
+msgid "Enable zoom with the mouse scroll wheel"
+msgstr "Включить масштабирование колесом мыши"
+
+#: ../mappress_settings.php:268
+msgid "Enable keyboard panning and zooming"
+msgstr "Включить масштабирование при помощи клавиатуры"
+
+#: ../mappress_settings.php:274
+msgid "language"
+msgstr "язык"
+
+#: ../mappress_settings.php:276
+#, php-format
+msgid "Use a specific %s for map controls and geocoding"
+msgstr ""
+"Использовать специальные %s для управления картой и гео позиционирования"
+
+#: ../mappress_settings.php:284 ../mappress_settings.php:290
+#: ../mappress_settings.php:384 ../mappress_settings.php:497
+msgid "Default"
+msgstr "По умолчанию"
+
+#: ../mappress_settings.php:285
+msgid "Horizontal"
+msgstr "Горизонтальный"
+
+#: ../mappress_settings.php:286
+msgid "Dropdown"
+msgstr "Выпадающий список"
+
+#: ../mappress_settings.php:291
+msgid "Small"
+msgstr "Малый"
+
+#: ../mappress_settings.php:292
+msgid "Large"
+msgstr "Большой"
+
+#: ../mappress_settings.php:293
+msgid "Android"
+msgstr ""
+
+#: ../mappress_settings.php:304
+msgid "Open initially"
+msgstr "Открыть вначале"
+
+#: ../mappress_settings.php:306 ../mappress_settings.php:308
+#: ../mappress_settings.php:310
+msgid "Checked initially"
+msgstr "Отмеченный изначально"
+
+#: ../mappress_settings.php:312
+msgid "Control"
+msgstr "Управление"
+
+#: ../mappress_settings.php:312
+msgid "Enable"
+msgstr "Включить"
+
+#: ../mappress_settings.php:312 ../mappress_settings.php:409
+msgid "Style"
+msgstr "Стиль"
+
+#: ../mappress_settings.php:315
+msgid "Map types"
+msgstr "Типы карты"
+
+#: ../mappress_settings.php:316
+msgid "Pan"
+msgstr "Увеличить"
+
+#: ../mappress_settings.php:318
+msgid "Street view"
+msgstr "Просмотр улиц"
+
+#: ../mappress_settings.php:319
+msgid "Scale"
+msgstr "Масштабировать"
+
+#: ../mappress_settings.php:320
+msgid "Overview map"
+msgstr "Обзор карты"
+
+#: ../mappress_settings.php:321
+msgid "Public transit"
+msgstr "Общественный транспорт"
+
+#: ../mappress_settings.php:323
+msgid "Bike routes"
+msgstr "Велодорожки"
+
+#: ../mappress_settings.php:330
+msgid "Road map"
+msgstr "Дороги"
+
+#: ../mappress_settings.php:331 ../pro/mappress_widget.php:142
+msgid "Satellite"
+msgstr "Со спутника"
+
+#: ../mappress_settings.php:332 ../pro/mappress_widget.php:143
+msgid "Terrain"
+msgstr "Поверхность"
+
+#: ../mappress_settings.php:333 ../pro/mappress_widget.php:141
+msgid "Hybrid"
+msgstr "Гибрид"
+
+#: ../mappress_settings.php:346
+msgid "Inline (in your blog)"
+msgstr "Вложенный (в вашем блоге)"
+
+#: ../mappress_settings.php:347 ../pro/mappress_pro_settings.php:179
+#: ../pro/mappress_widget.php:110
+msgid "Google"
+msgstr ""
+
+#: ../mappress_settings.php:348 ../pro/mappress_widget.php:111
+msgid "None"
+msgstr "Ничего"
+
+#: ../mappress_settings.php:355
+msgid "Automatically open the first POI when a map is displayed"
+msgstr "Автоматически открыть первую Точку при отображении карты"
+
+#: ../mappress_settings.php:360 ../mappress_settings.php:369
+msgid "Show control"
+msgstr "Показать управление"
+
+#: ../mappress_settings.php:364 ../mappress_settings.php:373
+msgid "Enabled by default"
+msgstr "Включено по умолчанию"
+
+#: ../mappress_settings.php:377
+msgid "Show POI titles as a \"tooltip\" on mouse-over"
+msgstr ""
+"Показать всплывающее описание точки \"tooltip\" при наведении курсора мыши"
+
+#: ../mappress_settings.php:385 ../pro/mappress_widget.php:116
+msgid "Center"
+msgstr "По центру"
+
+#: ../mappress_settings.php:386
+msgid "Left"
+msgstr "Слева"
+
+#: ../mappress_settings.php:387
+msgid "Right"
+msgstr "Справа"
+
+#: ../mappress_settings.php:399
+msgid "solid"
+msgstr "непрерывный"
+
+#: ../mappress_settings.php:400
+msgid "dashed"
+msgstr "пунктир"
+
+#: ../mappress_settings.php:401
+msgid "dotted"
+msgstr "точками"
+
+#: ../mappress_settings.php:402
+msgid "double"
+msgstr "двойная линия"
+
+#: ../mappress_settings.php:403
+msgid "groove"
+msgstr ""
+
+#: ../mappress_settings.php:404
+msgid "inset"
+msgstr "утопленный"
+
+#: ../mappress_settings.php:405
+msgid "outset"
+msgstr "выступающий"
+
+#: ../mappress_settings.php:417 ../mappress_settings.php:497
+msgid "Width"
+msgstr "Ширина"
+
+#: ../mappress_settings.php:423
+msgid "Corner radius"
+msgstr "Закругление"
+
+#: ../mappress_settings.php:432
+msgid "Color"
+msgstr "Цвет"
+
+#: ../mappress_settings.php:442
+msgid "Display shadow"
+msgstr "Показать тень"
+
+#: ../mappress_settings.php:466
+msgid "Default zoom for POIs entered by lat/lng"
+msgstr "Масштаб по умолчанию для Точки, указанной с помощью Широты и Долготы "
+
+#: ../mappress_settings.php:472
+msgid "Top of post"
+msgstr "В начале публикации"
+
+#: ../mappress_settings.php:473
+msgid "Bottom of post"
+msgstr "В конце публикации"
+
+#: ../mappress_settings.php:474
+msgid "No automatic display"
+msgstr "Не отображать автоматически"
+
+#: ../mappress_settings.php:481
+msgid "Fix InfoWindow Scrollbars"
+msgstr "Фиксировать прокрутку ИнфоПанелей"
+
+#: ../mappress_settings.php:485
+msgid "Recenter maps when window is resized"
+msgstr "Центрировать карты при изменении размеров окна"
+
+#: ../mappress_settings.php:489
+#, php-format
+msgid "Don't load the %s stylesheet"
+msgstr "Не загружать %s стили"
+
+#: ../mappress_settings.php:493
+msgid "Load maps in window 'load' event"
+msgstr "Загружать карты в окне при событии 'load' "
+
+#: ../mappress_settings.php:497
+msgid "Height"
+msgstr "Высота"
+
+#: ../mappress_settings.php:508
+msgid "Enter sizes in px or %"
+msgstr "Укажите размеры в пикселях или процентах"
+
+#: ../mappress_settings.php:518
+msgid "Rate it 5 Stars"
+msgstr "Проголосуйте на 5 звезд"
+
+#: ../mappress_settings.php:520
+#, php-format
+msgid "%s on WordPress.org"
+msgstr "%s на WordPress.org"
+
+#: ../mappress_settings.php:521
+msgid "Thanks for your support!"
+msgstr "Спасибо за Вашу поддержку!"
+
+#: ../mappress_settings.php:548
+msgid "MapPress"
+msgstr ""
+
+#: ../mappress_settings.php:549
+msgid "Easy Google Maps"
+msgstr ""
+
+#: ../mappress_settings.php:598
+msgid "Like this plugin?"
+msgstr "Нравится этот плагин?"
+
+#: ../mappress_settings.php:600
+msgid "Sample Map"
+msgstr "Пример карты"
+
+#: ../mappress_settings.php:619
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: ../mappress_settings.php:620
+msgid "Reset Defaults"
+msgstr "Сбросить на значения по умолчанию"
+
+#: ../mappress_updater.php:19
+msgid "Settings"
+msgstr "Настройки"
+
+#: ../mappress_updater.php:41
+msgid "download it now"
+msgstr "скачать сейчас"
+
+#: ../mappress_updater.php:46
+#, php-format
+msgid "A PRO Version update is available for manual installation: %s"
+msgstr ""
+
+#: ../forms/map_editor.php:2
+msgid "Add POI"
+msgstr "Добавить Точку"
+
+#: ../forms/map_editor.php:5 ../templates/map_directions.php:11
+msgid "My location"
+msgstr "Моё местоположение"
+
+#: ../forms/map_editor.php:18
+msgid "Click map for lat/lng: "
+msgstr "Кликните карту для Широты и Долготы"
+
+#: ../forms/map_editor_infobox.php:22
+msgid "Line: "
+msgstr "Линия: "
+
+#: ../forms/map_editor_infobox.php:24
+msgid "Weight"
+msgstr "Толщина"
+
+#: ../forms/map_editor_infobox.php:25 ../forms/map_editor_infobox.php:31
+msgid "Opacity"
+msgstr "Прозрачность"
+
+#: ../forms/map_editor_infobox.php:29
+msgid "Fill: "
+msgstr "Заливка: "
+
+#: ../forms/map_editor_infobox.php:40
+msgid "Visual"
+msgstr "Визуально"
+
+#: ../forms/map_editor_infobox.php:40
+msgid "HTML"
+msgstr ""
+
+#: ../forms/map_editor_infobox.php:45 ../forms/map_media.php:46
+msgid "Save"
+msgstr "Сохранить"
+
+#: ../forms/map_editor_infobox.php:46 ../forms/map_media.php:47
+#: ../pro/mappress_icons.php:71
+msgid "Cancel"
+msgstr "Отменить"
+
+#: ../forms/map_media.php:11
+msgid "Maps for This Post"
+msgstr "Карты для этой публикации"
+
+#: ../forms/map_media.php:12
+msgid "New Map"
+msgstr "Новая карта"
+
+#: ../forms/map_media.php:22
+msgid "Map ID"
+msgstr "ID карты"
+
+#: ../forms/map_media.php:27
+msgid "Map Title"
+msgstr "Название карты"
+
+#: ../forms/map_media.php:32
+msgid "Size"
+msgstr "Размер"
+
+#: ../pro/mappress_geocoders.php:53
+msgid "No results, check that a geocoder is configured"
+msgstr "Нет результатов, проверьте конфигурацию геолокации"
+
+#: ../pro/mappress_geocoders.php:86
+#, php-format
+msgid "Invalid status: %s, address: %s"
+msgstr "Неверный статус: %s, адрес: %s"
+
+#: ../pro/mappress_geocoders.php:95 ../pro/mappress_geocoders.php:159
+#, php-format
+msgid "No results for address: %s"
+msgstr "Нет результатов для адреса: %s"
+
+#: ../pro/mappress_geocoders.php:155
+#, php-format
+msgid "Error: %s %s"
+msgstr "Ошибка: %s %s"
+
+#: ../pro/mappress_icons.php:72
+msgid "Use default icon"
+msgstr "Использовать значок по умолчанию"
+
+#: ../pro/mappress_pro.php:161
+msgid "Automatic"
+msgstr "Автоматически"
+
+#: ../pro/mappress_pro_settings.php:10
+msgid "POI list"
+msgstr "Список Точек"
+
+#: ../pro/mappress_pro_settings.php:11
+msgid "Use DataTables"
+msgstr "Использовать табличные данные "
+
+#: ../pro/mappress_pro_settings.php:13
+msgid "InfoWindow type"
+msgstr "Тип ИнфоОкна"
+
+#: ../pro/mappress_pro_settings.php:14
+msgid "InfoWindow panning"
+msgstr "Размер ИнфоОкна"
+
+#: ../pro/mappress_pro_settings.php:16
+msgid "Default icon"
+msgstr "Значок по умолчанию"
+
+#: ../pro/mappress_pro_settings.php:17
+msgid "Custom icons directory"
+msgstr "Папка пользовательских значков"
+
+#: ../pro/mappress_pro_settings.php:19
+msgid "Mashup POI title"
+msgstr ""
+
+#: ../pro/mappress_pro_settings.php:20
+msgid "Mashup POI body"
+msgstr ""
+
+#: ../pro/mappress_pro_settings.php:21
+msgid "Mashup POI click"
+msgstr ""
+
+#: ../pro/mappress_pro_settings.php:22
+msgid "Link title"
+msgstr "Текст ссылки"
+
+#: ../pro/mappress_pro_settings.php:23
+msgid "Mashup Thumbnails"
+msgstr ""
+
+#: ../pro/mappress_pro_settings.php:24
+msgid "Thumbnail Size"
+msgstr "Размер иконки"
+
+#: ../pro/mappress_pro_settings.php:26
+msgid "Styled maps"
+msgstr "Стилизованные карты"
+
+#: ../pro/mappress_pro_settings.php:27
+msgid "Default style"
+msgstr "Стиль по умолчанию"
+
+#: ../pro/mappress_pro_settings.php:29
+msgid "Geocoder(s)"
+msgstr ""
+
+#: ../pro/mappress_pro_settings.php:30
+msgid "Geocoding fields"
+msgstr ""
+
+#: ../pro/mappress_pro_settings.php:32
+msgid "API key (optional)"
+msgstr ""
+
+#: ../pro/mappress_pro_settings.php:33
+msgid "Force resize"
+msgstr "Принудительное изменение размеров"
+
+#: ../pro/mappress_pro_settings.php:77
+msgid "Show a list of POIs under each map"
+msgstr ""
+
+#: ../pro/mappress_pro_settings.php:82
+#, php-format
+msgid "Show the POI list as a sortable %s"
+msgstr ""
+
+#: ../pro/mappress_pro_settings.php:86
+msgid "POI title"
+msgstr "Заголовок Точки"
+
+#: ../pro/mappress_pro_settings.php:86
+msgid "Post title"
+msgstr "Заголовок публикации"
+
+#: ../pro/mappress_pro_settings.php:91
+msgid "POI body"
+msgstr "Описание Точки"
+
+#: ../pro/mappress_pro_settings.php:91
+msgid "Address"
+msgstr "Адрес"
+
+#: ../pro/mappress_pro_settings.php:91
+msgid "Post excerpt"
+msgstr "Выдержка из публикации"
+
+#: ../pro/mappress_pro_settings.php:96
+msgid "Link POI titles to the underlying post"
+msgstr "Связать Заголовки Точек с соответствующими публикациями"
+
+#: ../pro/mappress_pro_settings.php:100
+msgid "Open the POI"
+msgstr "Открыть Точку"
+
+#: ../pro/mappress_pro_settings.php:100
+msgid "Go directly to the post"
+msgstr ""
+
+#: ../pro/mappress_pro_settings.php:106
+msgid "Google InfoWindow"
+msgstr ""
+
+#: ../pro/mappress_pro_settings.php:107
+msgid "InfoBox (can be styled and extend outside the map)"
+msgstr ""
+
+#: ../pro/mappress_pro_settings.php:113
+msgid "Disable map panning when infoWindow / infoBox is opened"
+msgstr ""
+
+#: ../pro/mappress_pro_settings.php:117
+msgid "Show featured image thumbnails in mashup POIs"
+msgstr ""
+
+#: ../pro/mappress_pro_settings.php:125
+msgid "Use existing size: "
+msgstr ""
+
+#: ../pro/mappress_pro_settings.php:128
+msgid "or resize to (px): "
+msgstr ""
+
+#: ../pro/mappress_pro_settings.php:143
+msgid "styled maps"
+msgstr ""
+
+#: ../pro/mappress_pro_settings.php:144
+msgid "styled maps wizard"
+msgstr ""
+
+#: ../pro/mappress_pro_settings.php:146
+#, php-format
+msgid "Enter JSON for %s from Google's %s"
+msgstr ""
+
+#: ../pro/mappress_pro_settings.php:155
+msgid "Style name"
+msgstr "Название стиля"
+
+#: ../pro/mappress_pro_settings.php:169
+msgid "No styles have been defined yet"
+msgstr "Не указаны стили"
+
+#: ../pro/mappress_pro_settings.php:180
+msgid "Nominatim"
+msgstr ""
+
+#: ../pro/mappress_pro_settings.php:192
+msgid "Address Line 1"
+msgstr "Адрес 1"
+
+#: ../pro/mappress_pro_settings.php:193
+msgid "Address Line 2"
+msgstr "Адрес 2"
+
+#: ../pro/mappress_pro_settings.php:194
+msgid "Address Line 3"
+msgstr "Адрес 3"
+
+#: ../pro/mappress_pro_settings.php:195
+msgid "Address Line 4"
+msgstr "Адрес 4"
+
+#: ../pro/mappress_pro_settings.php:196
+msgid "Address Line 5"
+msgstr "Адрес 5"
+
+#: ../pro/mappress_pro_settings.php:197
+msgid "Address Line 6"
+msgstr "Адрес 6"
+
+#: ../pro/mappress_pro_settings.php:198
+msgid "Latitude"
+msgstr "Широта"
+
+#: ../pro/mappress_pro_settings.php:199
+msgid "Longitude"
+msgstr "Долгота"
+
+#: ../pro/mappress_pro_settings.php:200
+msgid "Icon"
+msgstr "Значек"
+
+#: ../pro/mappress_pro_settings.php:201
+msgid "Title"
+msgstr "Заголовок"
+
+#: ../pro/mappress_pro_settings.php:202
+msgid "Body"
+msgstr "Описание"
+
+#: ../pro/mappress_pro_settings.php:203
+msgid "Map Zoom"
+msgstr "Масштаб"
+
+#: ../pro/mappress_pro_settings.php:206 ../pro/mappress_widget.php:140
+msgid "Map"
+msgstr "Карта"
+
+#: ../pro/mappress_pro_settings.php:206
+msgid "Custom Field"
+msgstr "Пользовательское поле"
+
+#: ../pro/mappress_pro_settings.php:215
+msgid "Overwrite existing maps when updating"
+msgstr "Перезаписать существующий карты при обновлении"
+
+#: ../pro/mappress_pro_settings.php:220
+msgid "usage tracking"
+msgstr "использование отслеживания"
+
+#: ../pro/mappress_pro_settings.php:221
+#, php-format
+msgid "API keys is needed only for premium services or %s"
+msgstr ""
+
+#: ../pro/mappress_pro_settings.php:229
+msgid "Permanently resize existing maps"
+msgstr "Постоянное изменение размеров существующих карт"
+
+#: ../pro/mappress_pro_settings.php:231
+#, php-format
+msgid "from %s to %s"
+msgstr "из %s в %s"
+
+#: ../pro/mappress_pro_settings.php:232
+msgid "Force Resize"
+msgstr "Принудительное изменение размера"
+
+#: ../pro/mappress_widget.php:78
+msgid "Widget title"
+msgstr "Заголовок виджета"
+
+#: ../pro/mappress_widget.php:83
+msgid "Map size"
+msgstr "Размер карты"
+
+#: ../pro/mappress_widget.php:89
+msgid "Show"
+msgstr "Показать"
+
+#: ../pro/mappress_widget.php:90
+msgid "Current posts"
+msgstr "Текущие публикации"
+
+#: ../pro/mappress_widget.php:91
+msgid "Hide if empty"
+msgstr "Скрыть если пустой"
+
+#: ../pro/mappress_widget.php:93
+msgid "All posts"
+msgstr "Все публикации"
+
+#: ../pro/mappress_widget.php:94
+msgid "Custom query"
+msgstr "Пользовательский запрос"
+
+#: ../pro/mappress_widget.php:97
+msgid "Learn about queries"
+msgstr "Узнать о запросах"
+
+#: ../pro/mappress_widget.php:102
+msgid "Show POI list"
+msgstr "Показать список Точек"
+
+#: ../pro/mappress_widget.php:104
+msgid "Link POIs to posts"
+msgstr "Ссылки на Точки (POI) в публикации"
+
+#: ../pro/mappress_widget.php:109
+msgid "Inline"
+msgstr "Утопленный"
+
+#: ../pro/mappress_widget.php:137
+msgid "Map type"
+msgstr "Тип карты"
+
+#: ../pro/mappress_widget.php:151
+msgid "Other Settings"
+msgstr "Другие настройки"
+
+#: ../pro/mappress_widget.php:154
+msgid "Example: traffic=\"false\" maplinks=\"\""
+msgstr "Пример: traffic=\"false\" maplinks=\"\""
+
+#: ../templates/map_directions.php:3
+msgid "By car"
+msgstr "На машине"
+
+#: ../templates/map_directions.php:4
+msgid "Public Transit"
+msgstr "Общественным транспортом"
+
+#: ../templates/map_directions.php:5
+msgid "Walking"
+msgstr "Пешком"
+
+#: ../templates/map_directions.php:16
+msgid "Swap start and end"
+msgstr "Поменять местами Старт и Назначение"
+
+#: ../templates/map_directions.php:29
+msgid "Get Directions"
+msgstr "Проложить маршрут"
+
+#: ../templates/map_directions.php:30
+msgid "Print"
+msgstr "Печать"
+
+#: ../templates/map_directions.php:31
+msgid "Close"
+msgstr "Закрыть"
+
+#: ../templates/map_poi_list.php:5
+msgid "Location"
+msgstr "Местонахождение"

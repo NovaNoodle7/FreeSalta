@@ -1,0 +1,62 @@
+#{$wrap} .mega-menu-toggle {
+
+    @each $item in $menu_toggle_blocks {
+        $id: nth($item, 1);
+        $align: nth($item, 2);
+        $closed_text: nth($item, 3);
+        $open_text: nth($item, 4);
+        $closed_icon: nth($item, 5);
+        $open_icon: nth($item, 6);
+        $text_color: nth($item, 7);
+        $icon_color: nth($item, 8);
+        $icon_position: nth($item, 9);
+
+        @if type-of($id) == number {
+
+            .mega-toggle-block-#{$id}:before {
+                content: $closed_icon;
+                font-family: 'dashicons';
+                font-size: 24px;
+                margin: 0 0 0 5px;
+                color: $icon_color;
+            }
+
+            &.mega-menu-open .mega-toggle-block-#{$id}:before {
+                content: $open_icon;
+            }
+
+            .mega-toggle-block-#{$id}:after {
+                content: $closed_text;
+                color: $text_color;
+                float: left;
+
+                @if $icon_position == before {
+                    float: right;
+                }
+            }
+
+            &.mega-menu-open .mega-toggle-block-#{$id}:after {
+                content: $open_text;
+            }
+        }
+
+    }
+
+    @each $item in $spacer_toggle_blocks {
+
+        $id: nth($item, 1);
+        $align: nth($item, 2);
+        $width: nth($item, 3);
+
+        @if type-of($id) == number {
+
+            .mega-toggle-block-#{$id} {
+                width: $width;
+                margin: 0;
+            }
+
+        }
+
+    }
+
+}

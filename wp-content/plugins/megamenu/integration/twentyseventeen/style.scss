@@ -1,0 +1,22 @@
+@if $location == 'top' {
+    body.mega-menu-top {
+        button.menu-toggle {
+            height: 0;
+            padding: 0;
+            visibility: hidden;
+            margin: 0;
+        }
+        .site-header .navigation-top .menu-scroll-down {
+            display: none;
+        }
+        .navigation-top a {
+            font-weight: normal;
+        }
+        .navigation-top .wrap {
+            padding: 0 2em;
+        }
+        .navigation-top nav {
+            margin-left: 0;
+        }
+    }
+}

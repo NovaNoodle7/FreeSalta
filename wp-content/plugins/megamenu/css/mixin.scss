@@ -1,0 +1,42 @@
+@mixin border-radius($topleft: 0, $topright: 0, $bottomright: 0, $bottomleft: 0) {
+  -webkit-border-radius: $topleft $topright $bottomright $bottomleft;
+     -moz-border-radius: $topleft $topright $bottomright $bottomleft;
+      -ms-border-radius: $topleft $topright $bottomright $bottomleft;
+       -o-border-radius: $topleft $topright $bottomright $bottomleft;
+          border-radius: $topleft $topright $bottomright $bottomleft;
+}
+
+@mixin box-shadow($value) {
+    -webkit-box-shadow: $value;
+       -moz-box-shadow: $value;
+        -ms-box-shadow: $value;
+         -o-box-shadow: $value;
+            box-shadow: $value;
+}
+
+@mixin background($from, $to) {
+    @if $to == $from {
+        background: $to;
+    } @else {
+        background: $to;
+        background: -webkit-gradient(linear, left top, left bottom, from($from), to($to));
+        background: -moz-linear-gradient(top, $from, $to);
+        background: -ms-linear-gradient(top, $from, $to);
+        background: -o-linear-gradient(top, $from, $to);
+        background: linear-gradient(to bottom, $from, $to);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#{ie_hex_str($from)}', endColorstr='#{ie_hex_str($to)}');
+    }
+}
+
+@mixin mobile {
+    @media only screen and (max-width : $responsive_breakpoint) {
+        @content;
+    }
+}
+
+@mixin desktop {
+    @media only screen and (min-width : $responsive_breakpoint + 1) {
+        @content;
+    }
+}
+

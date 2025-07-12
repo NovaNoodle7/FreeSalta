@@ -1,0 +1,177 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*Admin CSS*/
+
+.para-settings {
+  margin: 20px 0;
+}
+
+.para-settings .option-box {
+  margin: 10px 0;
+  padding: 10px;
+}
+
+
+.para-settings .option-box:hover {
+  
+}
+
+
+.para-settings .option-box .option-title {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.para-settings .option-box .option-info {
+  color: rgb(153, 153, 153);
+  font-size: 13px;
+  font-weight: normal;
+  margin: 10px 0;
+}
+
+.para-settings ul.tab-nav {
+  clear: both;
+  margin: 0;
+  padding: 0;
+}
+
+.para-settings ul.tab-nav li {
+  background: none repeat scroll 0 0 rgb(230, 230, 230);
+  cursor: pointer;
+  display: inline-block;
+  float: left;
+  margin: 0;
+  padding: 15px 20px;
+}
+
+.para-settings ul.tab-nav li.active{
+	background:#ffffff;
+	font-weight: bold;
+	}
+	
+	
+	
+.para-settings ul.box {
+  clear: both;
+  margin: 0;
+  padding: 0;
+}
+
+.para-settings ul.box li.tab-box {
+  background: rgb(255, 255, 255) none repeat scroll 0 0;
+  display: none;
+  margin: 0;
+  width: 100%;
+}
+
+
+
+.para-settings .new_user_profile_social {
+  margin: 15px 5px;
+}
+
+
+
+.para-settings ul.voting-bg-img-list{}
+
+.para-settings ul.voting-bg-img-list li {
+  display: inline-block;
+  margin: 5px;
+}
+.para-settings ul.voting-bg-img-list li.bg-selected {}
+
+.para-settings ul.voting-bg-img-list li img{border: 2px solid #ffffff;}
+
+.para-settings ul.voting-bg-img-list li.bg-selected img{
+  border: 2px solid #ff5a11;
+}
+
+
+.para-settings h2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 25px 0;
+}
+
+
+.para-settings .expandable {
+
+}
+
+.para-settings .expandable .items {
+  background: none repeat scroll 0 0 rgb(255, 255, 255);
+  border-bottom: 1px solid rgb(153, 153, 153);
+  margin: 2px 0;
+}
+
+.para-settings .expandable .items.ui-sortable-helper {
+border: 1px dashed rgb(153, 153, 153);
+}
+
+
+
+.para-settings .expandable .header {
+  background: none repeat scroll 0 0 rgb(255, 255, 255);
+  padding: 5px;
+}
+
+.para-settings .expandable .active .options {
+  
+  display: block;
+
+}
+.para-settings .expandable .options {
+	background: none repeat scroll 0 0 rgb(240, 240, 240);
+  display: none;
+  padding: 10px;
+}
+
+
+@media all and (max-width: 799px) {
+
+	
+	.para-settings ul.tab-nav li {
+	  display: block;
+	  float: none;
+	
+	}
+	
+	.para-settings ul.tab-nav li.active{
+		font-weight: bold;
+		}	
+	
+
+
+
+
+	.para-settings .pricing-table .column {
+		display:block;
+		float:none;
+		width:100%;
+		border-right: 1px solid #ff9601;
+		margin: 50px 0;
+	
+	}
+
+
+
+
+
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

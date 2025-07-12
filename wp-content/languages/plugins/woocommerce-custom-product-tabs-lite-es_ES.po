@@ -1,0 +1,62 @@
+# Translation of Plugins - WooCommerce Custom Product Tabs Lite - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WooCommerce Custom Product Tabs Lite - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-08-01 23:01:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WooCommerce Custom Product Tabs Lite - Stable (latest release)\n"
+
+#. translators: Placeholders: %s - plugin name
+#: woocommerce-custom-product-tabs-lite.php:79
+msgid "You cannot unserialize instances of %s."
+msgstr "No puedes anular la serialización de %s."
+
+#. translators: Placeholders: %s - plugin name
+#: woocommerce-custom-product-tabs-lite.php:67
+msgid "You cannot clone instances of %s."
+msgstr "No puedes clonar versiones de %s."
+
+#. Author URI of the plugin/theme
+msgid "http://www.skyverge.com/"
+msgstr "http://www.skyverge.com/"
+
+#. Author of the plugin/theme
+msgid "SkyVerge"
+msgstr "SkyVerge"
+
+#. Description of the plugin/theme
+msgid "Extends WooCommerce to add a custom product view page tab"
+msgstr "Amplía WooCommerce para poder añadir una pestaña personalizada a la página de visualización del producto "
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.skyverge.com/product/woocommerce-custom-product-tabs-lite/"
+msgstr "https://www.skyverge.com/product/woocommerce-custom-product-tabs-lite/"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Custom Product Tabs Lite"
+msgstr "WooCommerce Custom Product Tabs Lite"
+
+#: woocommerce-custom-product-tabs-lite.php:207
+msgid "HTML and text to display."
+msgstr "HTML y texto a mostrar."
+
+#: woocommerce-custom-product-tabs-lite.php:207
+msgid "Content"
+msgstr "Contenido"
+
+#: woocommerce-custom-product-tabs-lite.php:206
+msgid "Required for tab to be visible"
+msgstr "Requerido para que sea visible la pestaña"
+
+#: woocommerce-custom-product-tabs-lite.php:206
+msgid "Tab Title"
+msgstr "Título de la pestaña"
+
+#: woocommerce-custom-product-tabs-lite.php:185
+msgid "Custom Tab"
+msgstr "Pestaña personalizada"

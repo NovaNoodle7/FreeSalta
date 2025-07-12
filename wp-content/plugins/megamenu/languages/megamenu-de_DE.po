@@ -1,0 +1,1122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MaxMenu v1.2.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-28 18:52-0000\n"
+"PO-Revision-Date: 2015-03-28 18:53-0000\n"
+"Last-Translator: thomas <t.meyer@me.com>\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ megamenu
+#: megamenu.php:456
+#, fuzzy
+msgid ""
+"Max Mega Menu is not compatible with your version of WordPress. Please "
+"upgrade WordPress to the latest version or disable Max Mega Menu."
+msgstr ""
+"Mega Menu ist nicht kompatibel mit dieser WordPress Version. Bitte WordPress "
+"auf die aktuelle Version aktualisieren oder Mega Menu deaktivieren."
+
+# @ megamenu
+#: megamenu.php:467
+#, fuzzy
+msgid ""
+"Max Mega Menu is not compatible with Uber Menu. Please disable Uber Menu."
+msgstr ""
+"Mega Menu ist nicht kompatibel mit Über Menu. Bitte Über Menu deaktivieren."
+
+#: megamenu.php:480
+msgid "click here"
+msgstr ""
+
+#: megamenu.php:483
+#, php-format
+msgid "Thanks for installing Max Mega Menu! Please %s to get started."
+msgstr ""
+
+# @ megamenu
+#: classes/menu-item-manager.class.php:171
+#: classes/menu-item-manager.class.php:264 classes/nav-menus.class.php:127
+#, fuzzy
+msgid "Mega Menu"
+msgstr "Mega Menu Panel"
+
+#: classes/menu-item-manager.class.php:172
+msgid "Mega Menus can only be created on top level menu items."
+msgstr ""
+
+#: classes/menu-item-manager.class.php:183
+msgid "Enable Mega Menu"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:186
+msgid "column"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:187
+#: classes/menu-item-manager.class.php:188
+#: classes/menu-item-manager.class.php:189
+#: classes/menu-item-manager.class.php:190
+#: classes/menu-item-manager.class.php:191
+#: classes/menu-item-manager.class.php:192
+#: classes/menu-item-manager.class.php:193
+msgid "columns"
+msgstr ""
+
+# @ megamenu
+#: classes/menu-item-manager.class.php:197
+#, fuzzy
+msgid "Select a Widget to add to the panel"
+msgstr "Widget für das Mega Panel auswählen"
+
+# @ megamenu
+#: classes/menu-item-manager.class.php:213
+#, fuzzy
+msgid "Sub menu items"
+msgstr "Untermenü Typ"
+
+#: classes/menu-item-manager.class.php:233
+msgid "Widgets"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:258
+msgid ""
+"No widgets found. Add a widget to this area using the Widget Selector (top "
+"right)"
+msgstr ""
+
+# @ megamenu
+#: classes/menu-item-manager.class.php:284
+#, fuzzy
+msgid "Menu Item Settings"
+msgstr "Mega Menu Einstellungen"
+
+#: classes/menu-item-manager.class.php:288
+msgid "Hide Text"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:295
+#: classes/menu-item-manager.class.php:331
+#: classes/menu-item-manager.class.php:356
+msgid "Option only available for top level menu items"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:302
+msgid "Hide Arrow"
+msgstr ""
+
+# @ megamenu
+#: classes/menu-item-manager.class.php:310
+#, fuzzy
+msgid "Disable Link"
+msgstr "Deaktiviert"
+
+#: classes/menu-item-manager.class.php:318
+msgid "Menu Item Align"
+msgstr ""
+
+# @ megamenu
+#: classes/menu-item-manager.class.php:324
+#: classes/menu-item-manager.class.php:349 classes/settings.class.php:815
+#: classes/settings.class.php:904 classes/settings.class.php:1086
+#: classes/settings.class.php:1208 classes/settings.class.php:1234
+#: classes/settings.class.php:1286 classes/settings.class.php:1368
+#: classes/settings.class.php:1447 classes/settings.class.php:1488
+#: classes/settings.class.php:1641
+msgid "Left"
+msgstr "Links"
+
+# @ megamenu
+#: classes/menu-item-manager.class.php:325
+#: classes/menu-item-manager.class.php:350 classes/settings.class.php:819
+#: classes/settings.class.php:896 classes/settings.class.php:1078
+#: classes/settings.class.php:1200 classes/settings.class.php:1226
+#: classes/settings.class.php:1278 classes/settings.class.php:1360
+#: classes/settings.class.php:1439 classes/settings.class.php:1480
+#: classes/settings.class.php:1643
+msgid "Right"
+msgstr "Rechts"
+
+#: classes/menu-item-manager.class.php:328
+msgid ""
+"Right aligned items will appear in reverse order on the right hand side of "
+"the menu bar"
+msgstr ""
+
+# @ megamenu
+#: classes/menu-item-manager.class.php:338
+#, fuzzy
+msgid "Sub Menu Settings"
+msgstr "Mega Menu Einstellungen"
+
+# @ megamenu
+#: classes/menu-item-manager.class.php:343
+#, fuzzy
+msgid "Sub Menu Align"
+msgstr "Untermenü Position"
+
+#: classes/menu-item-manager.class.php:353
+msgid ""
+"Right aligned sub menus will align to the right of the parent menu item and "
+"expand to the left"
+msgstr ""
+
+# @ megamenu
+#: classes/menu-item-manager.class.php:366 classes/settings.class.php:439
+#: classes/settings.class.php:626
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: classes/menu-item-manager.class.php:385
+msgid "Dashicons"
+msgstr ""
+
+# @ megamenu
+#: classes/menu-item-manager.class.php:422
+msgid "Menu Icon"
+msgstr "Menü Icon"
+
+# @ megamenu
+#: classes/nav-menus.class.php:84
+msgid "Mega Menu Settings"
+msgstr "Mega Menu Einstellungen"
+
+# @ megamenu
+#: classes/nav-menus.class.php:126
+msgid "Launched for Menu ID"
+msgstr "Für Menü-ID gestartet"
+
+#: classes/nav-menus.class.php:128
+msgid "Saving"
+msgstr ""
+
+# @ megamenu
+#: classes/nav-menus.class.php:130
+msgid "Oops. Something went wrong. Please reload the page."
+msgstr "Oops. Irgendwas ist schief gelaufen. Bitte lade die Seite neu."
+
+# @ megamenu
+#: classes/nav-menus.class.php:201
+msgid "This theme does not have any menu locations."
+msgstr "Dieses Theme besitzt keine Menü Positionen."
+
+# @ megamenu
+#: classes/nav-menus.class.php:205
+msgid ""
+"This menu is not tagged to a location. Please tag a location to enable the "
+"Mega Menu settings."
+msgstr ""
+"Dieses Menü ist keiner Position zugeordnet. Bitte weise dem Menü eine "
+"Position zu, um die Mega Menü Einstellungen zu aktivieren. "
+
+# @ default
+#: classes/nav-menus.class.php:245 classes/widget-manager.class.php:456
+msgid "Save"
+msgstr ""
+
+# @ megamenu
+#: classes/nav-menus.class.php:260
+msgid "Enable"
+msgstr "Aktiv"
+
+# @ megamenu
+#: classes/nav-menus.class.php:266
+msgid "Event"
+msgstr "Auslöser"
+
+# @ megamenu
+#: classes/nav-menus.class.php:269
+msgid "Hover"
+msgstr "Hover"
+
+# @ megamenu
+#: classes/nav-menus.class.php:270
+msgid "Click"
+msgstr "Klick"
+
+# @ megamenu
+#: classes/nav-menus.class.php:275
+msgid "Effect"
+msgstr "Effekt"
+
+# @ megamenu
+#: classes/nav-menus.class.php:284 classes/settings.class.php:1663
+msgid "None"
+msgstr "Keiner"
+
+# @ megamenu
+#: classes/nav-menus.class.php:288
+msgid "Fade"
+msgstr "Einblenden"
+
+# @ megamenu
+#: classes/nav-menus.class.php:292
+msgid "Slide"
+msgstr "Herunterklappen"
+
+# @ megamenu
+#: classes/nav-menus.class.php:306
+msgid "Theme"
+msgstr "Vorlage"
+
+# @ megamenu
+#: classes/settings.class.php:239
+#, fuzzy
+msgid "Copy"
+msgstr " Kopie"
+
+# @ megamenu
+#: classes/settings.class.php:416 classes/settings.class.php:584
+#, fuzzy
+msgid "Max Mega Menu"
+msgstr "Mega Menu Panel"
+
+#: classes/settings.class.php:444
+msgid "CSS Output"
+msgstr ""
+
+#: classes/settings.class.php:450
+msgid "Enqueue dynamically via admin-ajax.php"
+msgstr ""
+
+#: classes/settings.class.php:451
+msgid "Save to filesystem"
+msgstr ""
+
+#: classes/settings.class.php:452
+msgid "Output in &lt;head&gt;"
+msgstr ""
+
+#: classes/settings.class.php:453
+msgid "Don't output CSS"
+msgstr ""
+
+#: classes/settings.class.php:456
+msgid ""
+"Default. CSS will be enqueued dynamically through admin-ajax.php and loaded "
+"from the cache."
+msgstr ""
+
+#: classes/settings.class.php:457
+msgid ""
+"CSS will be saved to wp-content/uploads/maxmegamenu/style.css and enqueued "
+"from there."
+msgstr ""
+
+#: classes/settings.class.php:458
+msgid ""
+"CSS will be loaded from the cache in a &lt;style&gt; tag in the &lt;head&gt; "
+"of the page."
+msgstr ""
+
+#: classes/settings.class.php:459
+msgid "CSS will not be output, you must enqueue the CSS for the menu manually."
+msgstr ""
+
+#: classes/settings.class.php:465
+msgid "Click Event Behaviour"
+msgstr ""
+
+#: classes/settings.class.php:467
+msgid ""
+"Define what should happen when the event is set to 'click'. This also "
+"applies to mobiles."
+msgstr ""
+
+#: classes/settings.class.php:472
+msgid "First click will open a sub menu, second click will close the sub menu."
+msgstr ""
+
+#: classes/settings.class.php:473
+msgid "First click will open a sub menu, second click will follow the link."
+msgstr ""
+
+# @ megamenu
+#: classes/settings.class.php:483
+#, fuzzy
+msgid "Menu Settings"
+msgstr "Mega Menu Einstellungen"
+
+#: classes/settings.class.php:485
+msgid ""
+"Menu specific settings (e.g, click or hover event, menu theme, transition "
+"effect) can be found under"
+msgstr ""
+
+#: classes/settings.class.php:485
+msgid "Appearance > Menus"
+msgstr ""
+
+#: classes/settings.class.php:515
+msgid "Cache"
+msgstr ""
+
+#: classes/settings.class.php:517
+msgid "Regenerate CSS"
+msgstr ""
+
+#: classes/settings.class.php:518
+msgid "Regenerate the CSS."
+msgstr ""
+
+#: classes/settings.class.php:525
+msgid "Plugin Data"
+msgstr ""
+
+# @ megamenu
+#: classes/settings.class.php:527
+#, fuzzy
+msgid "Delete Data"
+msgstr "%s gelöscht"
+
+#: classes/settings.class.php:528
+msgid ""
+"Delete all saved Max Mega Menu plugin data from the database. Use with "
+"caution!"
+msgstr ""
+
+#: classes/settings.class.php:548
+msgid "Homepage"
+msgstr ""
+
+#: classes/settings.class.php:553
+msgid "Documentation"
+msgstr ""
+
+#: classes/settings.class.php:558
+msgid "Support"
+msgstr ""
+
+#: classes/settings.class.php:566
+msgid "Core version"
+msgstr ""
+
+#: classes/settings.class.php:627
+msgid "Tools"
+msgstr ""
+
+# @ megamenu
+#: classes/settings.class.php:628
+#, fuzzy
+msgid "Theme Editor"
+msgstr "Theme gelöscht"
+
+# @ megamenu
+#: classes/settings.class.php:685
+msgid "Failed to delete theme. The theme is in use by a menu."
+msgstr "Theme kann nicht gelöscht werden, da es von einem Menü benutzt wird."
+
+#: classes/settings.class.php:689
+msgid "CSS cache cleared and CSS regenerated"
+msgstr ""
+
+#: classes/settings.class.php:693
+msgid "All plugin data removed"
+msgstr ""
+
+# @ megamenu
+#: classes/settings.class.php:698
+msgid "Theme Deleted"
+msgstr "Theme gelöscht"
+
+# @ megamenu
+#: classes/settings.class.php:702
+msgid "Theme Duplicated"
+msgstr "Theme dupliziert"
+
+# @ megamenu
+#: classes/settings.class.php:706
+msgid "Changes Saved"
+msgstr "Änderungen gespeichert"
+
+# @ megamenu
+#: classes/settings.class.php:710
+msgid "Theme Reverted"
+msgstr "Theme wiederhergestellt"
+
+# @ megamenu
+#: classes/settings.class.php:714
+msgid "New Theme Created"
+msgstr "Neues Theme erstellt"
+
+# @ megamenu
+#: classes/settings.class.php:775
+msgid "Select theme to edit"
+msgstr "Theme zum Bearbeiten auswählen"
+
+#: classes/settings.class.php:775 classes/settings.class.php:776
+msgid "or"
+msgstr ""
+
+# @ megamenu
+#: classes/settings.class.php:776
+#, fuzzy
+msgid "create a new theme"
+msgstr "Neues Theme erstellen"
+
+# @ megamenu
+#: classes/settings.class.php:777
+#, fuzzy
+msgid "duplicate this theme"
+msgstr "Theme kopieren"
+
+# @ megamenu
+#: classes/settings.class.php:786
+#, fuzzy
+msgid "Editing Theme:"
+msgstr "Bearbeiten von Theme: "
+
+# @ megamenu
+#: classes/settings.class.php:787
+#, fuzzy
+msgid "General Theme Settings"
+msgstr "Allgemeine Einstellungen"
+
+# @ megamenu
+#: classes/settings.class.php:792
+#, fuzzy
+msgid "Theme Title"
+msgstr "Theme gelöscht"
+
+# @ megamenu
+#: classes/settings.class.php:800
+#, fuzzy
+msgid "Arrow"
+msgstr "Rechts"
+
+# @ megamenu
+#: classes/settings.class.php:802
+#, fuzzy
+msgid "Select the arrow styles."
+msgstr "Theme zum Bearbeiten auswählen"
+
+#: classes/settings.class.php:807
+msgid "Up"
+msgstr ""
+
+#: classes/settings.class.php:811
+msgid "Down"
+msgstr ""
+
+#: classes/settings.class.php:826
+msgid "Responsive Breakpoint"
+msgstr ""
+
+#: classes/settings.class.php:828
+msgid ""
+"Set the width at which the menu turns into a mobile menu. Set to 0 to "
+"disable responsive menu."
+msgstr ""
+
+#: classes/settings.class.php:835
+msgid "Responsive Menu Text"
+msgstr ""
+
+#: classes/settings.class.php:837
+msgid "Text to display next to the mobile toggle icon."
+msgstr ""
+
+#: classes/settings.class.php:844
+msgid "Line Height"
+msgstr ""
+
+#: classes/settings.class.php:846
+msgid "Set the general line height to use in the panel contents."
+msgstr ""
+
+#: classes/settings.class.php:853
+msgid "Z-Index"
+msgstr ""
+
+#: classes/settings.class.php:855
+msgid "Set the z-index to ensure the panels appear ontop of other content."
+msgstr ""
+
+# @ megamenu
+#: classes/settings.class.php:862
+msgid "Menu Bar"
+msgstr "Menü Leiste"
+
+# @ megamenu
+#: classes/settings.class.php:867
+#, fuzzy
+msgid "Menu Background"
+msgstr "Menü Leiste"
+
+#: classes/settings.class.php:869
+msgid ""
+"The background color for the main menu bar. Set each value to transparent "
+"for a 'button' style menu."
+msgstr ""
+
+#: classes/settings.class.php:874 classes/settings.class.php:960
+#: classes/settings.class.php:978 classes/settings.class.php:1163
+#: classes/settings.class.php:1388 classes/settings.class.php:1406
+msgid "From"
+msgstr ""
+
+#: classes/settings.class.php:878 classes/settings.class.php:964
+#: classes/settings.class.php:982 classes/settings.class.php:1167
+#: classes/settings.class.php:1392 classes/settings.class.php:1410
+msgid "To"
+msgstr ""
+
+# @ megamenu
+#: classes/settings.class.php:885
+#, fuzzy
+msgid "Menu Padding"
+msgstr "Menü Leiste"
+
+#: classes/settings.class.php:887
+msgid "Padding for the main menu bar."
+msgstr ""
+
+#: classes/settings.class.php:892 classes/settings.class.php:1074
+#: classes/settings.class.php:1196 classes/settings.class.php:1222
+#: classes/settings.class.php:1274 classes/settings.class.php:1356
+#: classes/settings.class.php:1435 classes/settings.class.php:1476
+msgid "Top"
+msgstr ""
+
+#: classes/settings.class.php:900 classes/settings.class.php:1082
+#: classes/settings.class.php:1204 classes/settings.class.php:1230
+#: classes/settings.class.php:1282 classes/settings.class.php:1364
+#: classes/settings.class.php:1443 classes/settings.class.php:1484
+msgid "Bottom"
+msgstr ""
+
+#: classes/settings.class.php:911 classes/settings.class.php:1241
+#: classes/settings.class.php:1495
+msgid "Rounded Corners"
+msgstr ""
+
+#: classes/settings.class.php:913
+msgid "Set a border radius on the main menu bar."
+msgstr ""
+
+# @ megamenu
+#: classes/settings.class.php:918 classes/settings.class.php:1100
+#: classes/settings.class.php:1248 classes/settings.class.php:1502
+#, fuzzy
+msgid "Top Left"
+msgstr "Links"
+
+# @ megamenu
+#: classes/settings.class.php:922 classes/settings.class.php:1104
+#: classes/settings.class.php:1252 classes/settings.class.php:1506
+#, fuzzy
+msgid "Top Right"
+msgstr "Rechts"
+
+#: classes/settings.class.php:926 classes/settings.class.php:1108
+#: classes/settings.class.php:1256 classes/settings.class.php:1510
+msgid "Bottom Right"
+msgstr ""
+
+#: classes/settings.class.php:930 classes/settings.class.php:1112
+#: classes/settings.class.php:1260 classes/settings.class.php:1514
+msgid "Bottom Left"
+msgstr ""
+
+# @ megamenu
+#: classes/settings.class.php:937
+#, fuzzy
+msgid "Menu Items Align"
+msgstr "Menü Icon"
+
+#: classes/settings.class.php:939
+msgid ""
+"Align all menu items to the left (default), centrally or to the right. To "
+"align a single menu item to the right, use the Mega Menu options for the "
+"menu item."
+msgstr ""
+
+# @ megamenu
+#: classes/settings.class.php:948
+msgid "Top Level Menu Items"
+msgstr "Hauptmenü Einträge"
+
+# @ megamenu
+#: classes/settings.class.php:953
+#, fuzzy
+msgid "Menu Item Background"
+msgstr "Menü Icon"
+
+#: classes/settings.class.php:955
+msgid ""
+"The background color for each top level menu item. Tip: Set these values to "
+"transparent if you've already set a background color on the menu container."
+msgstr ""
+
+#: classes/settings.class.php:971
+msgid "Menu Item Background (Hover)"
+msgstr ""
+
+#: classes/settings.class.php:973
+msgid "The background color for a top level menu item (on hover)."
+msgstr ""
+
+# @ megamenu
+#: classes/settings.class.php:989
+#, fuzzy
+msgid "Menu Item Spacing"
+msgstr "Menü Icon"
+
+#: classes/settings.class.php:991
+msgid "Define the size of the gap between each top level menu item."
+msgstr ""
+
+#: classes/settings.class.php:1000
+msgid "Menu Item Height"
+msgstr ""
+
+#: classes/settings.class.php:1002
+msgid ""
+"Define the height of each top level menu item. This value, plus the "
+"container top and bottom padding values define the overall height of the "
+"menu bar."
+msgstr ""
+
+#: classes/settings.class.php:1011 classes/settings.class.php:1521
+msgid "Font"
+msgstr ""
+
+#: classes/settings.class.php:1013
+msgid "The font to use for each top level menu item."
+msgstr ""
+
+#: classes/settings.class.php:1018 classes/settings.class.php:1052
+#: classes/settings.class.php:1130 classes/settings.class.php:1192
+#: classes/settings.class.php:1300 classes/settings.class.php:1334
+#: classes/settings.class.php:1472 classes/settings.class.php:1528
+#: classes/settings.class.php:1562
+msgid "Color"
+msgstr ""
+
+#: classes/settings.class.php:1022 classes/settings.class.php:1304
+#: classes/settings.class.php:1338 classes/settings.class.php:1532
+msgid "Size"
+msgstr ""
+
+#: classes/settings.class.php:1026 classes/settings.class.php:1308
+#: classes/settings.class.php:1342 classes/settings.class.php:1536
+msgid "Family"
+msgstr ""
+
+#: classes/settings.class.php:1030 classes/settings.class.php:1316
+#: classes/settings.class.php:1540
+msgid "Transform"
+msgstr ""
+
+# @ megamenu
+#: classes/settings.class.php:1034 classes/settings.class.php:1056
+#: classes/settings.class.php:1312 classes/settings.class.php:1544
+#: classes/settings.class.php:1566
+#, fuzzy
+msgid "Weight"
+msgstr "Rechts"
+
+#: classes/settings.class.php:1038 classes/settings.class.php:1060
+#: classes/settings.class.php:1320 classes/settings.class.php:1548
+#: classes/settings.class.php:1570
+msgid "Decoration"
+msgstr ""
+
+#: classes/settings.class.php:1045 classes/settings.class.php:1555
+msgid "Font (Hover)"
+msgstr ""
+
+#: classes/settings.class.php:1047
+msgid "Set the font to use for each top level menu item (on hover)."
+msgstr ""
+
+#: classes/settings.class.php:1067
+msgid "Menu Item Padding"
+msgstr ""
+
+#: classes/settings.class.php:1069
+msgid "Set the padding for each top level menu item."
+msgstr ""
+
+#: classes/settings.class.php:1093
+msgid "Menu Item Rounded Corners"
+msgstr ""
+
+#: classes/settings.class.php:1095
+msgid "Set rounded corners for each top level menu item."
+msgstr ""
+
+# @ megamenu
+#: classes/settings.class.php:1119
+#, fuzzy
+msgid "Menu Item Divider"
+msgstr "Menü Icon"
+
+#: classes/settings.class.php:1121
+msgid "Show a small divider bar between each menu item."
+msgstr ""
+
+# @ megamenu
+#: classes/settings.class.php:1126
+#, fuzzy
+msgid "Enabled"
+msgstr "Aktiv"
+
+#: classes/settings.class.php:1134
+msgid "Glow Opacity"
+msgstr ""
+
+#: classes/settings.class.php:1142
+msgid "Highlight Current Item"
+msgstr ""
+
+#: classes/settings.class.php:1144
+msgid "Apply the 'hover' styling to current menu items."
+msgstr ""
+
+# @ megamenu
+#: classes/settings.class.php:1151
+msgid "Mega Panels"
+msgstr "Mega Panels"
+
+#: classes/settings.class.php:1156
+msgid "Panel Background"
+msgstr ""
+
+#: classes/settings.class.php:1158
+msgid "Set a background color for a whole panel."
+msgstr ""
+
+#: classes/settings.class.php:1174
+msgid "Panel Width"
+msgstr ""
+
+#: classes/settings.class.php:1176
+msgid ""
+"Mega Panel width. Note: A 100% wide panel will only ever be as wide as the "
+"menu itself. For a fixed panel width set this to a pixel value. Advanced: "
+"enter a jQuery selector to align the sub menu to a page element."
+msgstr ""
+
+#: classes/settings.class.php:1185
+msgid "Panel Border"
+msgstr ""
+
+# @ megamenu
+#: classes/settings.class.php:1187
+#, fuzzy
+msgid "Set the border to display on the Mega Panel."
+msgstr "Widget für das Mega Panel auswählen"
+
+#: classes/settings.class.php:1215
+msgid "Panel Padding"
+msgstr ""
+
+#: classes/settings.class.php:1217
+msgid ""
+"Set the padding for the whole panel. Set these values 0px if you wish your "
+"panel content to go edge-to-edge."
+msgstr ""
+
+#: classes/settings.class.php:1243
+msgid "Set rounded corners for the panel."
+msgstr ""
+
+#: classes/settings.class.php:1267
+msgid "Widget Padding"
+msgstr ""
+
+#: classes/settings.class.php:1269
+msgid ""
+"Set the padding for each widget in the panel. Use this to define the spacing "
+"between each widget in the panel."
+msgstr ""
+
+#: classes/settings.class.php:1293
+msgid "Heading Font"
+msgstr ""
+
+#: classes/settings.class.php:1295
+msgid ""
+"Set the font to use for Widget Headers. This setting is also used for second "
+"level menu items when they're displayed in a Mega Menu."
+msgstr ""
+
+#: classes/settings.class.php:1327
+msgid "Content Font"
+msgstr ""
+
+#: classes/settings.class.php:1329
+msgid "Set the font to use for panel contents."
+msgstr ""
+
+#: classes/settings.class.php:1349
+msgid "Heading Padding"
+msgstr ""
+
+#: classes/settings.class.php:1351
+msgid ""
+"Set the padding for the headings. Use this to set the gap between the widget "
+"heading and the widget content."
+msgstr ""
+
+# @ megamenu
+#: classes/settings.class.php:1376
+msgid "Flyout Menus"
+msgstr "Flyout-Menü"
+
+#: classes/settings.class.php:1381
+msgid "Item Background"
+msgstr ""
+
+#: classes/settings.class.php:1383
+msgid "Set the background color for a flyout menu item."
+msgstr ""
+
+#: classes/settings.class.php:1399
+msgid "Item Background (Hover)"
+msgstr ""
+
+#: classes/settings.class.php:1401
+msgid "Set the background color for a flyout menu item (on hover)."
+msgstr ""
+
+#: classes/settings.class.php:1417
+msgid "Item Height"
+msgstr ""
+
+#: classes/settings.class.php:1419
+msgid "The height of each flyout menu item."
+msgstr ""
+
+#: classes/settings.class.php:1428
+msgid "Item Padding"
+msgstr ""
+
+#: classes/settings.class.php:1430
+msgid "Set the padding for each flyout menu item."
+msgstr ""
+
+# @ megamenu
+#: classes/settings.class.php:1454
+#, fuzzy
+msgid "Flyout Menu Width"
+msgstr "Flyout-Menü"
+
+#: classes/settings.class.php:1456
+msgid "The width of each flyout menu."
+msgstr ""
+
+# @ megamenu
+#: classes/settings.class.php:1465
+#, fuzzy
+msgid "Flyout Menu Border"
+msgstr "Flyout-Menü"
+
+#: classes/settings.class.php:1467
+msgid "Set the border for the flyout menu."
+msgstr ""
+
+#: classes/settings.class.php:1497
+msgid ""
+"Set rounded corners for flyout menus. Rounded corners will be applied to all "
+"flyout menu levels."
+msgstr ""
+
+#: classes/settings.class.php:1523
+msgid "Set the font for the flyout menu items."
+msgstr ""
+
+#: classes/settings.class.php:1557
+msgid "Set the font weight for the flyout menu items (on hover)."
+msgstr ""
+
+# @ megamenu
+#: classes/settings.class.php:1577
+#, fuzzy
+msgid "Custom Styling"
+msgstr "Eigenes CSS"
+
+#: classes/settings.class.php:1582
+msgid "CSS Editor"
+msgstr ""
+
+#: classes/settings.class.php:1584
+msgid ""
+"Define any custom CSS you wish to add to menus using this theme. You can use "
+"standard CSS or SCSS."
+msgstr ""
+
+#: classes/settings.class.php:1590
+msgid "Custom Styling Tips"
+msgstr ""
+
+#: classes/settings.class.php:1592
+msgid ""
+"converts to the ID selector of the menu wrapper, e.g. div#mega-menu-wrap-"
+"primary"
+msgstr ""
+
+#: classes/settings.class.php:1593
+msgid "converts to the ID selector of the menu, e.g. ul#mega-menu-primary"
+msgstr ""
+
+#: classes/settings.class.php:1594
+msgid ""
+"Use @import rules to import CSS from other plugins or your theme directory, "
+"e.g:"
+msgstr ""
+
+# @ megamenu
+#: classes/settings.class.php:1609
+msgid "Delete Theme"
+msgstr "Theme löschen"
+
+# @ megamenu
+#: classes/settings.class.php:1613
+#, fuzzy
+msgid "Revert Theme"
+msgstr "Theme löschen"
+
+#: classes/settings.class.php:1642
+msgid "Center"
+msgstr ""
+
+#: classes/settings.class.php:1664
+msgid "Underline"
+msgstr ""
+
+# @ megamenu
+#: classes/settings.class.php:1708
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+# @ megamenu
+#: classes/settings.class.php:1765 classes/settings.class.php:1784
+msgid "Normal"
+msgstr "Normal"
+
+# @ megamenu
+#: classes/settings.class.php:1766
+msgid "Bold"
+msgstr "Fett"
+
+# @ megamenu
+#: classes/settings.class.php:1785
+msgid "Capitalize"
+msgstr "Großschreibung"
+
+# @ megamenu
+#: classes/settings.class.php:1786
+msgid "Uppercase"
+msgstr "GROSSBUCHSTABEN"
+
+# @ megamenu
+#: classes/settings.class.php:1787
+msgid "Lowercase"
+msgstr "kleinschreibung"
+
+# @ megamenu
+#: classes/settings.class.php:1822
+msgid "Theme Default"
+msgstr "Theme Vorgabe"
+
+# @ megamenu
+#: classes/settings.class.php:1929
+msgid "Are you sure?"
+msgstr "Bist Du sicher?"
+
+# @ megamenu
+#: classes/style-manager.class.php:67
+msgid "Default"
+msgstr "Standard"
+
+# @ megamenu
+#: classes/style-manager.class.php:450
+msgid ""
+"Warning: CSS compilation failed. Please check your changes or revert the "
+"theme."
+msgstr ""
+"Achtung: CSS-Erstellung fehlgeschlagen. Bitte überprüfe die Änderungen oder "
+"setze das Theme zurück."
+
+# @ megamenu
+#: classes/widget-manager.class.php:76
+msgid "Mega Menu Widgets"
+msgstr "Mega Menu Widgets"
+
+# @ megamenu
+#: classes/widget-manager.class.php:77
+msgid "Do not manually edit this area."
+msgstr "Diesen Bereich bitte nicht manuell ändern."
+
+# @ megamenu
+#: classes/widget-manager.class.php:114
+#, php-format
+msgid "Saved %s"
+msgstr "%s gesichert"
+
+# @ megamenu
+#: classes/widget-manager.class.php:115
+#, php-format
+msgid "Failed to save %s"
+msgstr "Fehler beim Speichern von %s"
+
+# @ megamenu
+#: classes/widget-manager.class.php:139
+#, php-format
+msgid "Updated %s (new columns: %d)"
+msgstr "%s aktualisiert (neue Spalten: %d)"
+
+# @ megamenu
+#: classes/widget-manager.class.php:140
+#, php-format
+msgid "Failed to update %s"
+msgstr "Fehler beim Aktualisieren von %s"
+
+# @ megamenu
+#: classes/widget-manager.class.php:166
+#, php-format
+msgid "Failed to add %s to %d"
+msgstr "Fehler beim Hinzufügen von %s zu %d"
+
+# @ megamenu
+#: classes/widget-manager.class.php:189
+#, php-format
+msgid "Deleted %s"
+msgstr "%s gelöscht"
+
+# @ megamenu
+#: classes/widget-manager.class.php:190
+#, php-format
+msgid "Failed to delete %s"
+msgstr "Fehler beim Löschen von %s"
+
+# @ megamenu
+#: classes/widget-manager.class.php:215
+#, php-format
+msgid "Moved %s to %d (%s)"
+msgstr "%s verschoben zu %d (%s)"
+
+# @ megamenu
+#: classes/widget-manager.class.php:216
+#, php-format
+msgid "Failed to move %s to %d"
+msgstr "Fehler beim Verschieben von %s zu %d"
+
+# @ megamenu
+#, fuzzy
+#~ msgid "Global Settings"
+#~ msgstr "Allgemeine Einstellungen"

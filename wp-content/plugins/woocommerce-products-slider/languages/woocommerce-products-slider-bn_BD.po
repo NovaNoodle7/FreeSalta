@@ -1,0 +1,688 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Products Slider\n"
+"POT-Creation-Date: 2017-03-09 11:18+0600\n"
+"PO-Revision-Date: 2017-03-09 11:19+0600\n"
+"Last-Translator: Nur Hasan <public.nurhasan@gmail.com>\n"
+"Language-Team: PickPlugins <support@pickplugins.com>\n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: includes\n"
+"X-Poedit-SearchPath-2: templates\n"
+
+#: includes/class-functions.php:62
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/class-functions.php:63 includes/meta.php:625
+msgid "Title"
+msgstr ""
+
+#: includes/class-functions.php:64
+msgid "Excerpt"
+msgstr ""
+
+#: includes/class-functions.php:65 includes/meta.php:798
+msgid "Category"
+msgstr ""
+
+#: includes/class-functions.php:66
+msgid "Price"
+msgstr ""
+
+#: includes/class-functions.php:67
+msgid "Rating"
+msgstr ""
+
+#: includes/class-functions.php:68
+msgid "Cart"
+msgstr ""
+
+#: includes/class-functions.php:69
+msgid "Sale"
+msgstr ""
+
+#: includes/class-functions.php:70
+msgid "Featured"
+msgstr ""
+
+#: includes/class-settings.php:21
+msgid "Settings"
+msgstr ""
+
+#: includes/class-shortcodes.php:137
+msgid "No Product to Slide"
+msgstr ""
+
+#: includes/functions.php:84 includes/meta.php:220 includes/meta.php:232
+msgid "Shortcode"
+msgstr ""
+
+#: includes/functions.php:176
+msgid "No categories found!"
+msgstr ""
+
+#: includes/menu/settings.php:36
+msgid "Changes Saved."
+msgstr ""
+
+#: includes/menu/settings.php:56
+msgid " Settings"
+msgstr ""
+
+#: includes/menu/settings.php:67 includes/meta.php:221
+msgid "Options"
+msgstr ""
+
+#: includes/menu/settings.php:68
+msgid "Help"
+msgstr ""
+
+#: includes/menu/settings.php:77
+msgid "Track product View"
+msgstr ""
+
+#: includes/menu/settings.php:81 includes/meta.php:815
+msgid "No"
+msgstr ""
+
+#: includes/menu/settings.php:82 includes/meta.php:816
+msgid "Yes"
+msgstr ""
+
+#: includes/menu/settings.php:95
+msgid "Need Help ?"
+msgstr ""
+
+#: includes/menu/settings.php:97
+msgid ""
+"Feel free to contact with any issue for this plugin, Ask any question via "
+"forum"
+msgstr ""
+
+#: includes/menu/settings.php:97
+msgid "(free)"
+msgstr ""
+
+#: includes/menu/settings.php:126
+msgid "Submit Reviews."
+msgstr ""
+
+#: includes/menu/settings.php:128
+msgid ""
+"We are working hard to build some awesome plugins for you and spend thousand "
+"hour for plugins. we wish your three(3) minute by submitting five star "
+"reviews at wordpress.org. if you have any issue please submit at forum"
+msgstr ""
+
+#: includes/menu/settings.php:139
+msgid "Please Share"
+msgstr ""
+
+#: includes/menu/settings.php:140
+msgid "If you like this plugin please share with your social share network."
+msgstr ""
+
+#: includes/menu/settings.php:147
+msgid "Video Tutorial"
+msgstr ""
+
+#: includes/menu/settings.php:148
+msgid "Please watch this video tutorial."
+msgstr ""
+
+#: includes/menu/settings.php:165
+msgid "Save Changes"
+msgstr ""
+
+#: includes/meta.php:13 includes/meta.php:14
+msgid "WCPS"
+msgstr ""
+
+#: includes/meta.php:15 includes/meta.php:16 includes/meta.php:18
+msgid "New WCPS"
+msgstr ""
+
+#: includes/meta.php:17
+msgid "Edit WCPS"
+msgstr ""
+
+#: includes/meta.php:19
+msgid "View WCPS"
+msgstr ""
+
+#: includes/meta.php:20
+msgid "Search WCPS"
+msgstr ""
+
+#: includes/meta.php:21
+msgid "Nothing found"
+msgstr ""
+
+#: includes/meta.php:22
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: includes/meta.php:60
+msgid "Woocommerce Products Slider Options"
+msgstr ""
+
+#: includes/meta.php:178
+msgid "View product."
+msgstr ""
+
+#: includes/meta.php:222
+msgid "Style"
+msgstr ""
+
+#: includes/meta.php:223
+msgid "Query Product"
+msgstr ""
+
+#: includes/meta.php:224
+msgid "Elements"
+msgstr ""
+
+#: includes/meta.php:225
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/meta.php:234
+msgid ""
+"Copy this shortcode and paste on page or post where you want to display "
+"slider."
+msgstr ""
+
+#: includes/meta.php:236
+msgid "Use PHP code to your themes file to display slider."
+msgstr ""
+
+#: includes/meta.php:251
+msgid "Slider column number"
+msgstr ""
+
+#: includes/meta.php:253
+msgid "In Destop: (min:1000px and max)"
+msgstr ""
+
+#: includes/meta.php:256
+msgid "In Tablet & Small Desktop: (900px max width)"
+msgstr ""
+
+#: includes/meta.php:259
+msgid "In Mobile: (479px max width)"
+msgstr ""
+
+#: includes/meta.php:267
+msgid "Slider Auto Play"
+msgstr ""
+
+#: includes/meta.php:271 includes/meta.php:277 includes/meta.php:283
+#: includes/meta.php:289 includes/meta.php:297 includes/meta.php:361
+#: includes/meta.php:368 includes/meta.php:388 includes/meta.php:403
+#: includes/meta.php:416 includes/meta.php:424
+msgid "True"
+msgstr ""
+
+#: includes/meta.php:272 includes/meta.php:278 includes/meta.php:284
+#: includes/meta.php:290 includes/meta.php:296 includes/meta.php:362
+#: includes/meta.php:369 includes/meta.php:389 includes/meta.php:402
+#: includes/meta.php:417 includes/meta.php:425
+msgid "False"
+msgstr ""
+
+#: includes/meta.php:275
+msgid "Slider rewind"
+msgstr ""
+
+#: includes/meta.php:281
+msgid "Slider loop"
+msgstr ""
+
+#: includes/meta.php:287
+msgid "Slider center"
+msgstr ""
+
+#: includes/meta.php:293
+msgid "RTL Enabled"
+msgstr ""
+
+#: includes/meta.php:303
+msgid "Animate Out"
+msgstr ""
+
+#: includes/meta.php:306 includes/meta.php:337
+msgid "fadeOut"
+msgstr ""
+
+#: includes/meta.php:307 includes/meta.php:338
+msgid "bounce"
+msgstr ""
+
+#: includes/meta.php:308 includes/meta.php:339
+msgid "flash"
+msgstr ""
+
+#: includes/meta.php:309 includes/meta.php:340
+msgid "pulse"
+msgstr ""
+
+#: includes/meta.php:312 includes/meta.php:342
+msgid "Shake"
+msgstr ""
+
+#: includes/meta.php:313 includes/meta.php:343
+msgid "Swing"
+msgstr ""
+
+#: includes/meta.php:314 includes/meta.php:344
+msgid "Tada"
+msgstr ""
+
+#: includes/meta.php:315 includes/meta.php:345
+msgid "Wobble"
+msgstr ""
+
+#: includes/meta.php:316 includes/meta.php:346
+msgid "flip"
+msgstr ""
+
+#: includes/meta.php:317 includes/meta.php:347
+msgid "flipInX"
+msgstr ""
+
+#: includes/meta.php:318 includes/meta.php:348
+msgid "flipInY"
+msgstr ""
+
+#: includes/meta.php:319 includes/meta.php:349
+msgid "fadeIn"
+msgstr ""
+
+#: includes/meta.php:320 includes/meta.php:350
+msgid "fadeInDown"
+msgstr ""
+
+#: includes/meta.php:321 includes/meta.php:351
+msgid "fadeInUp"
+msgstr ""
+
+#: includes/meta.php:322 includes/meta.php:352
+msgid "bounceIn"
+msgstr ""
+
+#: includes/meta.php:323 includes/meta.php:353
+msgid "bounceInDown"
+msgstr ""
+
+#: includes/meta.php:324 includes/meta.php:354
+msgid "bounceInUp"
+msgstr ""
+
+#: includes/meta.php:334
+msgid "Animate In"
+msgstr ""
+
+#: includes/meta.php:358
+msgid "Slider Stop on Hover"
+msgstr ""
+
+#: includes/meta.php:365
+msgid "Slider Navigation at Top"
+msgstr ""
+
+#: includes/meta.php:373
+msgid "Slider Navigation Position"
+msgstr ""
+
+#: includes/meta.php:375
+msgid "Top Right"
+msgstr ""
+
+#: includes/meta.php:376
+msgid "Middle"
+msgstr ""
+
+#: includes/meta.php:377
+msgid "Middle fixed"
+msgstr ""
+
+#: includes/meta.php:381
+msgid "Slide Speed"
+msgstr ""
+
+#: includes/meta.php:385
+msgid "Slider Pagination at Bottom"
+msgstr ""
+
+#: includes/meta.php:394
+msgid "Pagination Background Color"
+msgstr ""
+
+#: includes/meta.php:397
+msgid "Pagination Text Color"
+msgstr ""
+
+#: includes/meta.php:400
+msgid "Pagination Number Counting"
+msgstr ""
+
+#: includes/meta.php:409
+msgid "Pagination Slide Speed"
+msgstr ""
+
+#: includes/meta.php:412
+msgid "Slider Touch Drag Enabled"
+msgstr ""
+
+#: includes/meta.php:421
+msgid "Slider Mouse Drag Enabled"
+msgstr ""
+
+#: includes/meta.php:448
+msgid "Themes for slider"
+msgstr ""
+
+#: includes/meta.php:471
+msgid "Slider ribbon"
+msgstr ""
+
+#: includes/meta.php:542
+msgid "Container options"
+msgstr ""
+
+#: includes/meta.php:543
+msgid "Padding: (ex: 10px)"
+msgstr ""
+
+#: includes/meta.php:546
+msgid "Background color:"
+msgstr ""
+
+#: includes/meta.php:549
+msgid "Background image:"
+msgstr ""
+
+#: includes/meta.php:554
+msgid "Clear"
+msgstr ""
+
+#: includes/meta.php:579
+msgid "Items Options"
+msgstr ""
+
+#: includes/meta.php:580
+msgid "Items background color"
+msgstr ""
+
+#: includes/meta.php:583
+msgid "Items padding"
+msgstr ""
+
+#: includes/meta.php:595
+msgid "Total Number of Product"
+msgstr ""
+
+#: includes/meta.php:596
+msgid "ex: 10, to display all product please use -1"
+msgstr ""
+
+#: includes/meta.php:601
+msgid "Query order"
+msgstr ""
+
+#: includes/meta.php:604
+msgid "Descending"
+msgstr ""
+
+#: includes/meta.php:605
+msgid "Ascending "
+msgstr ""
+
+#: includes/meta.php:616
+msgid "Query orderBy"
+msgstr ""
+
+#: includes/meta.php:619
+msgid "None"
+msgstr ""
+
+#: includes/meta.php:620
+msgid "ID"
+msgstr ""
+
+#: includes/meta.php:621
+msgid "Date"
+msgstr ""
+
+#: includes/meta.php:622
+msgid "Rand"
+msgstr ""
+
+#: includes/meta.php:623
+msgid "Comment Count"
+msgstr ""
+
+#: includes/meta.php:624
+msgid "Author"
+msgstr ""
+
+#: includes/meta.php:626
+msgid "Name"
+msgstr ""
+
+#: includes/meta.php:627
+msgid "Type"
+msgstr ""
+
+#: includes/meta.php:636
+msgid "Hide out of stock items"
+msgstr ""
+
+#: includes/meta.php:640
+msgid "Featured Product display"
+msgstr ""
+
+#: includes/meta.php:644
+msgid "On Sale Product display"
+msgstr ""
+
+#: includes/meta.php:670
+msgid "Slider items."
+msgstr ""
+
+#: includes/meta.php:672
+msgid "Reset"
+msgstr ""
+
+#: includes/meta.php:731
+msgid "Slider Thumbnail Size"
+msgstr ""
+
+#: includes/meta.php:794
+msgid "Items thumbnail link's to"
+msgstr ""
+
+#: includes/meta.php:797
+msgid "Product"
+msgstr ""
+
+#: includes/meta.php:806
+msgid "Slider thumb max hieght(px)"
+msgstr ""
+
+#: includes/meta.php:812
+msgid "Display Thumbnail Zoom button"
+msgstr ""
+
+#: includes/meta.php:823
+msgid "Empty Thumbnail"
+msgstr ""
+
+#: includes/meta.php:824
+msgid "Custom thumbnail image url"
+msgstr ""
+
+#: includes/meta.php:900
+msgid "Items add to cart button Style"
+msgstr ""
+
+#: includes/meta.php:901
+msgid "You can hide items add to cart button on slider."
+msgstr ""
+
+#: includes/meta.php:903
+msgid "Default"
+msgstr ""
+
+#: includes/meta.php:904
+msgid "Custom"
+msgstr ""
+
+#: includes/meta.php:909
+msgid "Add to cart background color"
+msgstr ""
+
+#: includes/meta.php:915
+msgid "Add to cart text color"
+msgstr ""
+
+#: includes/meta.php:921
+msgid "Items cart text align"
+msgstr ""
+
+#: includes/meta.php:925 includes/meta.php:978 includes/meta.php:1037
+#: includes/meta.php:1062 includes/meta.php:1118 includes/meta.php:1159
+msgid "Left"
+msgstr ""
+
+#: includes/meta.php:926 includes/meta.php:979 includes/meta.php:1038
+#: includes/meta.php:1063 includes/meta.php:1119 includes/meta.php:1160
+msgid "Right"
+msgstr ""
+
+#: includes/meta.php:927 includes/meta.php:980 includes/meta.php:1039
+#: includes/meta.php:1064 includes/meta.php:1120 includes/meta.php:1161
+msgid "Center"
+msgstr ""
+
+#: includes/meta.php:943
+msgid "Sale marker icon url"
+msgstr ""
+
+#: includes/meta.php:962
+msgid "Items Title Color"
+msgstr ""
+
+#: includes/meta.php:967
+msgid "Items Title Font Size"
+msgstr ""
+
+#: includes/meta.php:974
+msgid "Items Title Text Align"
+msgstr ""
+
+#: includes/meta.php:993
+msgid "Featured marker icon url"
+msgstr ""
+
+#: includes/meta.php:1005
+msgid "Price format on slider"
+msgstr ""
+
+#: includes/meta.php:1008
+msgid "Full Format"
+msgstr ""
+
+#: includes/meta.php:1009
+msgid "Sale price"
+msgstr ""
+
+#: includes/meta.php:1010
+msgid "Regular price"
+msgstr ""
+
+#: includes/meta.php:1019
+msgid "Items price Color"
+msgstr ""
+
+#: includes/meta.php:1025
+msgid "Items price font size"
+msgstr ""
+
+#: includes/meta.php:1033
+msgid "Price text align"
+msgstr ""
+
+#: includes/meta.php:1058
+msgid "Items rating text align"
+msgstr ""
+
+#: includes/meta.php:1071
+msgid "Items ratings font size"
+msgstr ""
+
+#: includes/meta.php:1078
+msgid "Items ratings color"
+msgstr ""
+
+#: includes/meta.php:1095
+msgid "Excerpt word count"
+msgstr ""
+
+#: includes/meta.php:1101
+msgid "Excerpt read more text"
+msgstr ""
+
+#: includes/meta.php:1107
+msgid "Items excerpt font size"
+msgstr ""
+
+#: includes/meta.php:1114
+msgid "Excerpt text align"
+msgstr ""
+
+#: includes/meta.php:1126
+msgid "Items excerpt font color"
+msgstr ""
+
+#: includes/meta.php:1148
+msgid "Items category font size"
+msgstr ""
+
+#: includes/meta.php:1155
+msgid "Category text align"
+msgstr ""
+
+#: includes/meta.php:1170
+msgid "Items category font color"
+msgstr ""
+
+#: includes/meta.php:1221
+msgid "Custom CSS for this slider."
+msgstr ""
+
+#: includes/meta.php:1222
+msgid ""
+"Do not use &lt;style>&lt;/style> tag, you can use bellow prefix to your css, "
+"sometime you need use \"!important\" to overrid."
+msgstr ""
+
+#: templates/wcps-featured.php:22
+msgid "Featured Product"
+msgstr ""
+
+#: templates/wcps-rating.php:41
+msgid "Rated"
+msgstr ""
+
+#: templates/wcps-sale.php:19
+msgid "Sale Product"
+msgstr ""

@@ -1,0 +1,7 @@
+.ywcfav_has_featured{
+    display:none!important;
+}
+.ywcfav_hide{
+    display: none;
+}
+.woocommerce span.onsale, .woocommerce-page span.onsale { z-index: 10; }

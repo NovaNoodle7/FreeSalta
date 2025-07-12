@@ -1,0 +1,26 @@
+# Copyright (C) 2017 ThemeFarmer
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mobile Shop 1.0.0\n"
+"Report-Msgid-Bugs-To: https://www.themefarmer.com \n"
+"POT-Creation-Date: 2017-07-06 11:19+0530\n"
+"PO-Revision-Date: 2017-07-06 11:19+0530\n"
+"Last-Translator: ThemeFarmer \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:32
+msgid "Call Us:"
+msgstr ""
+
+#: header.php:37
+msgid "Mail Us:"
+msgstr ""

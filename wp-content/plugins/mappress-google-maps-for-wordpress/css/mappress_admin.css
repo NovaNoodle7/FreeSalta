@@ -1,0 +1,350 @@
+/*
+	-----------------------------------------------------------------------------------
+	Metaboxes
+	-----------------------------------------------------------------------------------
+*/
+#mappress.postbox h1 {
+	display: inline-block;
+	margin-right: 10px;
+}
+
+/*
+	-----------------------------------------------------------------------------------
+	Map list
+	-----------------------------------------------------------------------------------
+*/
+
+.mapp-m-panel input[type="button"] {
+	vertical-align: middle;
+}
+
+#mapp_m_edit_panel td {
+	padding-right: 5px;
+}
+
+.mapp-m-panel hr {
+	background-color: lightgray;		/* Some browsers used background color */
+	border: 0;
+	color: lightgray;					/* IE uses color */
+	height: 1px;
+}
+
+.mapp-m-map-list {
+	width: 100%;
+	height: 100%;
+	margin-top: 5px;
+	overflow: auto;
+}
+
+.mapp-m-actions {
+	visibility: hidden;
+}
+
+.mobile .mapp-m-actions {
+	visibility: visible;
+}
+
+tr:hover > td > .mapp-m-actions {
+	visibility: visible;
+}
+
+/*
+	-----------------------------------------------------------------------------------
+	Map editor
+	-----------------------------------------------------------------------------------
+*/
+
+.mapp-edit .mapp-layout {
+	border: 1px solid lightgray;
+	margin: 5px 0 0 0;
+	width: 100% !important;
+}
+
+.mapp-edit .mapp-wrapper {
+	height: 325px !important;
+}
+
+.mapp-searchbox {
+	display: block;
+	margin-top: 10px;
+	width: 100%;
+	max-width: 500px;
+}
+
+.mapp-searchbox input {
+	vertical-align: middle;
+	width: 100%;
+}
+
+.mapp-search-button, .mapp-geolocate-button {
+	background-repeat: no-repeat !important;
+	background-position: center center !important;
+	margin: 0 !important;
+	vertical-align: middle !important;
+}
+
+.mapp-search-button:before, #mappress .mapp-geolocate-button:before {
+	content: "XX";
+	visibility: hidden;
+}
+
+.mapp-search-button, .mapp-search-button:hover, .mapp-search-button:focus {
+	background-image: url('../images/search.png') !important;
+}
+
+.mapp-geolocate-button, .mapp-geolocate-button:hover, .mapp-geolocate-button:focus {
+	background-image: url('../images/geolocate-2x.png') !important;
+	background-size: 18px 18px !important;
+}
+
+/*
+	-----------------------------------------------------------------------------------
+	POI editor
+	-----------------------------------------------------------------------------------
+*/
+
+.mapp-poi-edit {}
+
+.mapp-poi-edit a {
+	vertical-align: middle;
+}
+
+.mapp-poi-edit .mapp-poi-toolbar {
+	margin-top: 5px;
+}
+
+/* Table used to align title/icon */
+.mapp-poi-edit .mapp-table {
+	width: 100%;
+}
+
+.mapp-poi-edit .mapp-poi-title {
+	width: 100%;
+	font-weight: bold;
+	vertical-align: middle;
+}
+
+.mapp-poi-edit .mapp-poi-body {
+	width: 100%;
+	height: 143px;
+}
+
+.mapp-poi-edit .mapp-poi-visual, .mapp-poi-edit .mapp-poi-html {
+	cursor: pointer;
+}
+
+/* Border around tinyMCE editor (WP removes it).  mceLayout is for WP < 3.9 */
+.mapp-poi-edit .mce-panel, .mapp-poi-edit table.mceLayout {
+	border: 1px solid lightgray !important;
+}
+
+.mapp-poi-edit .mapp-poi-url {
+	width: 100%;
+}
+
+
+
+/*
+	-----------------------------------------------------------------------------------
+	Settings
+	-----------------------------------------------------------------------------------
+*/
+.mapp-settings-screen label {
+	margin-right: 10px;
+	white-space: nowrap;
+}
+
+/* MapPress tables */
+.mapp-settings-screen .form-table table {
+	border: 1px solid #dfdfdf;
+	border-collapse: collapse;
+	height: auto;
+	margin-top: 5px;
+	width: auto;
+}
+
+
+.mapp-settings-screen .form-table table th {
+	font-weight: bold;
+	background-color: rgb(241, 241, 241);
+	width: auto;
+	height: auto;
+	border-bottom: 1px solid lightgray;
+	padding: 5px;
+}
+
+.mapp-settings-screen .form-table table td {
+	width: auto;
+	height: auto;
+	border-bottom: 1px solid lightgray;
+	margin: 0;
+	vertical-align: middle;
+	padding: 5px;
+}
+
+/* Sort handles */
+.mapp-handle {
+	cursor: move;
+}
+
+.mapp-yes {
+	vertical-align: middle;
+	color:green;
+}
+
+.mapp-no {
+	vertical-align: middle;
+	color:red;
+}
+
+
+/*
+	-----------------------------------------------------------------------------------
+	Popup
+	-----------------------------------------------------------------------------------
+*/
+
+/* Keep autocomplete above */
+.pac-container {
+	z-index: 100002;
+}
+
+/* Prevent scrollbars on body when popup is open */
+body.mapp-popup-open {
+	overflow: hidden;
+}
+
+.mapp-popup {
+	background-color: white;
+	border: 1px solid lightgray;
+	box-shadow: 5px 5px 10px #888;
+	box-sizing: content-box;
+	display: inline-block;
+	padding: 5px 20px 5px 5px;
+	z-index: 100001;
+}
+
+.mapp-popup-backdrop {
+	background-color: black;
+	opacity: 0.8;
+	overflow: hidden;
+	position: fixed;
+	top: 0; right: 0; bottom: 0; left : 0;
+	user-select: none;
+	z-index: 100000;		/* WP adminbar is 99999 */
+}
+
+/* Max size */
+.mapp-popup-max {
+	position: fixed;
+	top: 10%; bottom: 10%; left: 20%; right: 20%;
+}
+
+/* Max size on small screens */
+@media screen and (max-width: 900px) {
+	.mapp-popup-max {
+		top: 10%; bottom: 10%; left: 10%; right: 10%;
+	}
+}
+@media screen and (max-width: 640px), screen and (max-height: 400px) {
+	.mapp-popup-max {
+		top: 0; bottom: 0; left: 0; right: 0;
+	}
+}
+
+/*
+	-----------------------------------------------------------------------------------
+	Icon Picker
+	-----------------------------------------------------------------------------------
+*/
+
+.mapp-iconpicker {
+	width: 260px;
+}
+
+img.mapp-iconpicker-toggle {
+	max-width: 24px !important;
+	max-height: 24px !important;
+}
+
+.mapp-iconpicker-wrapper {
+	height: 210px;
+	overflow: auto;
+	padding: 5px;
+	user-select: none;
+}
+
+.mapp-iconpicker-toolbar {
+	padding: 5px 5px 0 5px;
+	border-top: 1px solid lightgray;
+}
+
+.mapp-iconpicker .mapp-icon, .mapp-iconpicker .mapp-icon-sprite {
+	border: 2px solid white;
+	user-select: none;
+	margin: 0;
+}
+
+.mapp-iconpicker .mapp-icon:hover, .mapp-iconpicker .mapp-icon.mapp-selected, .mapp-iconpicker .mapp-icon-sprite:hover, .mapp-iconpicker .mapp-icon-sprite.mapp-selected {
+	border: 2px solid blue;
+}
+
+.mapp-iconpicker .mapp-icon-sprite { display: inline-block; background: transparent url('../images/icons.png') no-repeat; width: 24px; height: 24px; }
+
+/*
+	-----------------------------------------------------------------------------------
+	Color Picker
+	-----------------------------------------------------------------------------------
+*/
+
+.mapp-colorpicker {
+	width: 260px;
+	max-height: 250px;
+}
+
+span.mapp-colorpicker-toggle {
+	border: 1px solid lightgray;
+	cursor: pointer;
+	display: inline-block;
+	height: 20px;
+	margin: 1px;
+	vertical-align: middle;
+	width: 20px;
+}
+
+.mapp-colorpicker span[data-mapp-color] {
+	border: 2px solid lightgray;
+	display: inline-block;
+	height: 15px;
+	line-height: 1;
+	margin: 1px;
+	width: 15px;
+}
+
+.mapp-colorpicker .mapp-color:hover, .mapp-colorpicker .mapp-color.mapp-selected {
+	border: 2px solid black;
+}
+
+/*
+	-----------------------------------------------------------------------------------
+	Misc
+	-----------------------------------------------------------------------------------
+*/
+#mappress .mapp-support {
+	border-bottom: 1px solid lightgray;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+
+#mappress .mapp-support h1 {
+	padding: 0;
+}
+
+.mapp-support .button, .mapp-support .button:active {
+	margin-left: 10px;
+	vertical-align: middle;
+}
+
+.mapp-grid .mapp-close {
+	position: static;
+}
