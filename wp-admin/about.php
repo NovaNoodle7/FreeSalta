@@ -62,7 +62,7 @@ include( ABSPATH . 'wp-admin/admin-header.php' );
 				<p><?php _e( 'Though some updates seem minor, they&#8217;ve been built by hundreds of contributors with <em>you</em> in mind. Get ready for new features you&#8217;ll welcome like an old friend: link improvements, <em>three</em> new media widgets covering images, audio, and video, an updated text widget that supports visual editing, and an upgraded news section in your dashboard which brings in nearby and upcoming WordPress events.' ); ?></p>
 			</div>
 		</div>
-<!-- about -->
+
 		<hr />
 
 		<h2><?php _e( 'Exciting Widget Updates' ); ?></h2>
