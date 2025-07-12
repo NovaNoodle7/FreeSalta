@@ -19,7 +19,7 @@ global $hook_suffix;
 <div class="clear"></div></div><!-- wpbody-content -->
 <div class="clear"></div></div><!-- wpbody -->
 <div class="clear"></div></div><!-- wpcontent -->
-<!-- adming footer -->
+
 <div id="wpfooter" role="contentinfo">
 	<?php
 	/**
