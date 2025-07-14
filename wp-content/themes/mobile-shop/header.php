@@ -17,7 +17,7 @@
 <link rel="pingback" href="<?php bloginfo( 'pingback_url', 'display' ); ?>">
 <?php wp_head(); ?>
 </head>
-<!-- testing mobile shop -->
+
 <body <?php body_class(); ?>>
 <div  class="wrapper site">
 	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'mobile-shop' ); ?></a>
