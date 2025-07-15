@@ -102,6 +102,7 @@
 								</button>
 								
 							</div>			
+							<!-- test nav -->
 							<?php 
 								$args = array(
 												'theme_location'    => 'primary',
